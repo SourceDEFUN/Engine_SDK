@@ -33,9 +33,9 @@ $Project "Client (Episodic)"
 		}
 		$Folder	"Implementation Files"
 		{
-			$File	"$SRCDIR\game\client\ShaderEditor\ShaderEditorSystem.cpp"
-			$File	"$SRCDIR\game\client\ShaderEditor\SEdit_ModelRender.cpp"
-			//$File	"$SRCDIR\game\client\ShaderEditor\Grass\CGrassCluster.cpp"
+			$File	"$SRCDIR\game\client\ShaderEditor\shadereditorsystem.cpp"
+			$File	"$SRCDIR\game\client\ShaderEditor\sedit_modelrender.cpp"
+			//$File	"$SRCDIR\game\client\ShaderEditor\grass\cgrasscluster.cpp"
 		}
 	}
 	$Folder	"Source Files"
