@@ -83,7 +83,7 @@
 #include "C_Env_Projected_Texture.h"
 
 // Shader Editor
-#include "ShaderEditor/ShaderEditorSystem.h"
+#include "ShaderEditor/shadereditorsystem.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"
