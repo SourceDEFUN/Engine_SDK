@@ -513,7 +513,7 @@ protected:
 		//if( !r_drawopaquerenderables.GetBool() )
 		//	return;
 
-		if( !m_pMainView->ShouldDrawEntities() )
+		if( !GetMainView()->ShouldDrawEntities() )
 			return;
 
 		render->SetBlend( 1 );
