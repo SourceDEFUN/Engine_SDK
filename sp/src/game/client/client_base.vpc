@@ -78,6 +78,23 @@ $Configuration
 
 $Project
 {
+	$Folder "Shader Editor"
+	{
+		$Folder	"Header Files"
+		{
+			$File	"$SRCDIR\game\client\ShaderEditor\isedit_modelrender.h"
+			$File	"$SRCDIR\game\client\ShaderEditor\ivshadereditor.h"
+			$File	"$SRCDIR\game\client\ShaderEditor\shadereditorsystem.h"
+			$File	"$SRCDIR\game\client\ShaderEditor\sedit_modelrender.h"
+			//$File	"$SRCDIR\game\client\ShaderEditor\grass\cgrasscluster.h"
+		}
+		$Folder	"Implementation Files"
+		{
+			$File	"$SRCDIR\game\client\ShaderEditor\shadereditorsystem.cpp"
+			$File	"$SRCDIR\game\client\ShaderEditor\sedit_modelrender.cpp"
+			//$File	"$SRCDIR\game\client\ShaderEditor\grass\cgrasscluster.cpp"
+		}
+	}
 	$Folder "Replay"
 	{
 		$File	"replay/replaycamera.cpp"
