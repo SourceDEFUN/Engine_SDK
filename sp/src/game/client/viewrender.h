@@ -186,6 +186,7 @@ public:
 
 	VPlane *		GetFrustum();
 	virtual int		GetDrawFlags() { return 0; }
+	CViewRender *m_pMainView;
 
 #ifdef PORTAL
 	virtual	void	EnableWorldFog() {};
@@ -194,7 +195,6 @@ public:
 protected:
 	// @MULTICORE (toml 8/11/2006): need to have per-view frustum. Change when move view stack to client
 	VPlane			*m_Frustum;
-	CViewRender *m_pMainView;
 };
 
 //-----------------------------------------------------------------------------
