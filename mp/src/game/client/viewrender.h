@@ -171,6 +171,7 @@ public:
 
 	VPlane *		GetFrustum();
 	virtual int		GetDrawFlags() { return 0; }
+	CViewRender		GetMainView() { return m_pMainView; }
 
 #ifdef PORTAL
 	virtual	void	EnableWorldFog() {};
