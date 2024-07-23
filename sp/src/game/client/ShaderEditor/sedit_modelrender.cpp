@@ -11,12 +11,10 @@
 #include "vgui/IInput.h"
 #include "vgui_controls/Controls.h"
 
-#include "shadereditor/sedit_modelrender.h"
+#include "sedit_modelrender.h"
 #include "model_types.h"
 
-#ifndef SOURCE_2006
 #include "viewpostprocess.h"
-#endif
 
 #include "view.h"
 #include "input.h"
