@@ -7,7 +7,7 @@
 
 #include "iviewrender.h"
 #include "view_shared.h"
-#include "../viewrender.h"
+#include "viewrender.h"
 
 
 class ShaderEditorHandler : public CAutoGameSystemPerFrame
