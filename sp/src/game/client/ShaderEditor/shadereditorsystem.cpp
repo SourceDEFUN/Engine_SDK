@@ -13,7 +13,7 @@
 #include "sedit_modelrender.h"
 #include "ivrenderview.h"
 #include "iviewrender.h"
-#include "viewrender.h"
+#include "../viewrender.h"
 #include "view.h"
 #include "view_scene.h"
 #include "view_shared.h"
