@@ -21,23 +21,6 @@ $Configuration
 
 $Project "Client (Episodic)"
 {
-	$Folder "Shader Editor"
-	{
-		$Folder	"Header Files"
-		{
-			$File	"$SRCDIR\game\client\ShaderEditor\isedit_modelrender.h"
-			$File	"$SRCDIR\game\client\ShaderEditor\ivshadereditor.h"
-			$File	"$SRCDIR\game\client\ShaderEditor\shadereditorsystem.h"
-			$File	"$SRCDIR\game\client\ShaderEditor\sedit_modelrender.h"
-			//$File	"$SRCDIR\game\client\ShaderEditor\grass\cgrasscluster.h"
-		}
-		$Folder	"Implementation Files"
-		{
-			$File	"$SRCDIR\game\client\ShaderEditor\shadereditorsystem.cpp"
-			$File	"$SRCDIR\game\client\ShaderEditor\sedit_modelrender.cpp"
-			//$File	"$SRCDIR\game\client\ShaderEditor\grass\cgrasscluster.cpp"
-		}
-	}
 	$Folder	"Source Files"
 	{
 		$File	"hud_chat.cpp"
