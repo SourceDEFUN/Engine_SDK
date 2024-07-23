@@ -78,7 +78,7 @@ $Configuration
 
 $Project
 {
-	$Folder "Shader Editor" [$WIN32]
+	$Folder "Shader Editor"
 	{
 		$Folder	"Header Files"
 		{
