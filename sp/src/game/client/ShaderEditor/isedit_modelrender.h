@@ -9,7 +9,7 @@
 #include "../public/tier1/interface.h"
 #else
 #include "interface.h"
-#include "shadereditor/shadereditorsystem.h"
+#include "shadereditorsystem.h"
 #endif // NOT SHADER_EDITOR_DLL
 
 
