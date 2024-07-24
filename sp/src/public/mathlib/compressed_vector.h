@@ -118,8 +118,8 @@ inline Normal32& Normal32::operator=(const Vector &vOther)
 {
 	CHECK_VALID(vOther);
 
-	x = Clamp( (int)(vOther.x * 16384) + 16384, 0, 32767 );
-	y = Clamp( (int)(vOther.y * 16384) + 16384, 0, 32767 );
+	x = Clamp( (int)(vOther.x * 32768) + 32768, 0, 32768 );
+	y = Clamp( (int)(vOther.y * 32768) + 32768, 0, 32768 );
 	zneg = (vOther.z < 0);
 	//x = vOther.x; 
 	//y = vOther.y; 
@@ -132,8 +132,8 @@ inline Normal32::operator Vector ()
 {
 	Vector tmp;
 
-	tmp.x = ((int)x - 16384) * (1 / 16384.0);
-	tmp.y = ((int)y - 16384) * (1 / 16384.0);
+	tmp.x = ((int)x - 32768) * (1 / 32768.0);
+	tmp.y = ((int)y - 32768) * (1 / 32768.0);
 	tmp.z = sqrt( 1 - tmp.x * tmp.x - tmp.y * tmp.y );
 	if (zneg)
 		tmp.z = -tmp.z;
@@ -218,7 +218,7 @@ inline Quaternion48::operator Quaternion ()
 
 	tmp.x = ((int)x - 32768) * (1 / 32768.0);
 	tmp.y = ((int)y - 32768) * (1 / 32768.0);
-	tmp.z = ((int)z - 16384) * (1 / 16384.0);
+	tmp.z = ((int)z - 32768) * (1 / 32768.0);
 	tmp.w = sqrt( 1 - tmp.x * tmp.x - tmp.y * tmp.y - tmp.z * tmp.z );
 	if (wneg)
 		tmp.w = -tmp.w;
@@ -231,7 +231,7 @@ inline Quaternion48& Quaternion48::operator=(const Quaternion &vOther)
 
 	x = Clamp( (int)(vOther.x * 32768) + 32768, 0, 65535 );
 	y = Clamp( (int)(vOther.y * 32768) + 32768, 0, 65535 );
-	z = Clamp( (int)(vOther.z * 16384) + 16384, 0, 32767 );
+	z = Clamp( (int)(vOther.z * 32768) + 32768, 0, 32767 );
 	wneg = (vOther.w < 0);
 	return *this; 
 }
