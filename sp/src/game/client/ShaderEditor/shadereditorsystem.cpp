@@ -513,8 +513,11 @@ protected:
 		//if( !r_drawopaquerenderables.GetBool() )
 		//	return;
 
+		// Secton: i have no ideas how to fix it,
+		/*
 		if( !m_pMainView->ShouldDrawEntities() )
 			return;
+		*/
 
 		render->SetBlend( 1 );
 
