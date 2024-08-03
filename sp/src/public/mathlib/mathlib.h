@@ -8,13 +8,13 @@
 #define MATH_LIB_H
 
 #include <math.h>
-#include "tier0/basetypes.h"
-#include "tier0/commonmacros.h"
-#include "mathlib/vector.h"
-#include "mathlib/vector2d.h"
-#include "tier0/dbg.h"
+#include "../tier0/basetypes.h"
+#include "../tier0/commonmacros.h"
+#include "vector.h"
+#include "vector2d.h"
+#include "../tier0/dbg.h"
 
-#include "mathlib/math_pfns.h"
+#include "math_pfns.h"
 
 #if defined(__i386__) || defined(_M_IX86)
 // For MMX intrinsics
@@ -2168,7 +2168,7 @@ inline bool CloseEnough( const Vector &a, const Vector &b, float epsilon = EQUAL
 // Fast compare
 // maxUlps is the maximum error in terms of Units in the Last Place. This 
 // specifies how big an error we are willing to accept in terms of the value
-// of the least significant digit of the floating point number’s 
+// of the least significant digit of the floating point numberï¿½s 
 // representation. maxUlps can also be interpreted in terms of how many 
 // representable floats we are willing to accept between A and B. 
 // This function will allow maxUlps-1 floats between A and B.
