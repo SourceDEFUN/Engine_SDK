@@ -9,7 +9,7 @@
 #include <float.h>
 #include <math.h>
 
-#include "mathlib/mathlib.h"
+#include "../public/mathlib/mathlib.h"
 
 static inline bool AE_IsInfinite(float a)
 {

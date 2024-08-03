@@ -17,8 +17,8 @@
 #ifdef QUIVER
 #include "r_local.h"
 #endif
-#include "mathlib/bumpvects.h"
-#include "mathlib/vector.h"
+#include "../public/mathlib/bumpvects.h"
+#include "../public/mathlib/vector.h"
 #include <assert.h>
 
 // memdbgon must be the last include file in a .cpp file!!!

@@ -6,8 +6,8 @@
 #if !defined(_STATIC_LINKED) || defined(_SHARED_LIB)
 
 
-#include "mathlib/vector.h"
-#include "mathlib/anorms.h"
+#include "../public/mathlib/vector.h"
+#include "../public/mathlib/anorms.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

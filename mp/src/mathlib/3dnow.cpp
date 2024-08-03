@@ -6,12 +6,12 @@
 
 #include <math.h>
 #include <float.h>	// Needed for FLT_EPSILON
-#include "basetypes.h"
+#include "../public/basetypes.h"
 #include <memory.h>
 #include "tier0/dbg.h"
-#include "mathlib/mathlib.h"
-#include "mathlib/amd3dx.h"
-#include "mathlib/vector.h"
+#include "../public/mathlib/mathlib.h"
+#include "../public/mathlib/amd3dx.h"
+#include "../public/mathlib/vector.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"
