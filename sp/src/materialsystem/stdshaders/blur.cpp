@@ -3,7 +3,7 @@
 
 #include "tier0/memdbgon.h"
 
-#include "screenspace_vs30.inc"
+
 #include "gaussianblur_6_ps30.inc"
 
 BEGIN_VS_SHADER( GAUSSIAN_BLUR_6, "" )
