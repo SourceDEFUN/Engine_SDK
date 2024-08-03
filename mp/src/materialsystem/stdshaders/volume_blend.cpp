@@ -1,7 +1,7 @@
 
 #include "deferred_includes.h"
 
-
+#include "screenspace_vs30.inc"
 #include "volume_blend_ps30.inc"
 
 BEGIN_VS_SHADER( VOLUME_BLEND, "" )
