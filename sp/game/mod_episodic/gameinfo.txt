@@ -1,7 +1,7 @@
 "GameInfo"
 {
-	game 		"Source Shader Editor"
-	title 		"Source Shader Editor"
+	game 		"SourceDEFUN Test"
+	title 		"SourceDEFUN"
 	title2		""
 
 	type		singleplayer_only
