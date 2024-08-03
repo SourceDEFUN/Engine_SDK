@@ -220,7 +220,7 @@ jobs:
 
     - name: Build
       working-directory: '${{inputs.branch}}/src'
-      run: make CFG=${{env.config}} -f ${{inputs.solution-name}}.mak
+      run: make CFG=${{env.config}} -f ${{inputs.solution-name}}.mak CXXFLAGS="-M -MG"
 
       # --------------------------------------------------------------------
 
