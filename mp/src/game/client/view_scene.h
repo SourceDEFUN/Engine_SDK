@@ -12,7 +12,7 @@
 #endif
 
 
-#include "convar.h"
+#include "tier1/convar.h"
 #include "iviewrender.h"
 #include "view_shared.h"
 #include "rendertexture.h"

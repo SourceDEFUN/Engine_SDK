@@ -9,7 +9,7 @@
 #include <tier2/tier2.h>
 #include "filesystem.h"
 #include "bsp_utils.h"
-#include "utlbuffer.h"
+#include "tier1/utlbuffer.h"
 #include "igamesystem.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

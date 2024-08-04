@@ -16,8 +16,8 @@
 #include "iviewrender.h"
 #include "iclientmode.h"
 #include "prediction.h"
-#include "bitbuf.h"
-#include "checksum_md5.h"
+#include "tier1/bitbuf.h"
+#include "tier1/checksum_md5.h"
 #include "hltvcamera.h"
 #if defined( REPLAY_ENABLED )
 #include "replay/replaycamera.h"

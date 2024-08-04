@@ -4,8 +4,8 @@
 //
 //=============================================================================//
 
-#include "mempool.h"
-#include "utlmap.h"
+#include "tier1/mempool.h"
+#include "tier1/utlmap.h"
 
 #ifndef AI_MEMORY_H
 #define AI_MEMORY_H

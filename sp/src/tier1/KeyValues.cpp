@@ -23,13 +23,13 @@
 #include <stdlib.h>
 #include "tier0/dbg.h"
 #include "tier0/mem.h"
-#include "utlvector.h"
-#include "utlbuffer.h"
-#include "utlhash.h"
-#include "UtlSortVector.h"
-#include "convar.h"
+#include "tier1/utlvector.h"
+#include "tier1/utlbuffer.h"
+#include "tier1/utlhash.h"
+#include "tier1/UtlSortVector.h"
+#include "tier1/convar.h"
 #ifdef MAPBASE
-#include "icommandline.h"
+#include "tier0/icommandline.h"
 #endif
 
 // memdbgon must be the last include file in a .cpp file!!!

@@ -17,7 +17,7 @@
 
 #include "ai_hull.h"
 #include "bitstring.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 
 enum AI_ZoneIds_t
 {

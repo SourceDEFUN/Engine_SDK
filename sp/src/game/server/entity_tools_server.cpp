@@ -8,14 +8,14 @@
 #include "toolframework/itoolentity.h"
 #include "entitylist.h"
 #include "toolframework/itoolsystem.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 #include "icliententity.h"
 #include "iserverentity.h"
 #include "sceneentity.h"
 #include "particles/particles.h"
 
 #if _MSC_VER >= 1900
-#include "icommandline.h"
+#include "tier0/icommandline.h"
 #endif
 
 // memdbgon must be the last include file in a .cpp file!!!

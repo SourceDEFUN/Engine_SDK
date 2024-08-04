@@ -7,7 +7,7 @@
 #ifndef SAVERESTORE_UTLMAP_H
 #define SAVERESTORE_UTLMAP_H
 
-#include "utlmap.h"
+#include "tier1/utlmap.h"
 #include "saverestore_utlrbtree.h"
 
 #if defined( _WIN32 )

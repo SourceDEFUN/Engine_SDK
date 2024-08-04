@@ -10,7 +10,7 @@
 #define SMOKE_FOG_OVERLAY_H
 
 
-#include "basetypes.h"
+#include "tier0/basetypes.h"
 #include "mathlib/vector.h"
 #include "smoke_fog_overlay_shared.h"
 

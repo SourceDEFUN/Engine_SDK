@@ -14,7 +14,7 @@
 #pragma once
 #endif
 
-#include "mempool.h"
+#include "tier1/mempool.h"
 
 struct EventQueuePrioritizedEvent_t
 {

@@ -9,9 +9,9 @@
 ****/
 
 #include <stdio.h>
-#include "basetypes.h"
-#include "utlvector.h"
-#include "utlsymbol.h"
+#include "tier0/basetypes.h"
+#include "tier1/utlvector.h"
+#include "tier1/utlsymbol.h"
 #include "mathlib/vector.h"
 #include "studio.h"
 

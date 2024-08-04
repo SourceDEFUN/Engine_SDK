@@ -9,12 +9,12 @@
 #include "winerror.h"
 #endif
 #include "achievementmgr.h"
-#include "icommandline.h"
-#include "KeyValues.h"
+#include "tier0/icommandline.h"
+#include "tier1/KeyValues.h"
 #include "filesystem.h"
 #include "inputsystem/InputEnums.h"
 #include "usermessages.h"
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 #include "tier1/utlbuffer.h"
 #ifdef CLIENT_DLL
 #include "achievement_notification_panel.h"

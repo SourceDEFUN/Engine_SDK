@@ -7,7 +7,7 @@
 //=============================================================================//
 
 #include "BaseVSShader.h"
-#include "convar.h"
+#include "tier1/convar.h"
 #include "lightmappedgeneric_dx9_helper.h"
 
 static LightmappedGeneric_DX9_Vars_t s_info;

@@ -8,7 +8,7 @@
 #include <KeyValues.h>
 #include <tier0/mem.h>
 #include "filesystem.h"
-#include "utldict.h"
+#include "tier1/utldict.h"
 #include "ammodef.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

@@ -8,7 +8,7 @@
 #include "env_tonemap_controller.h"
 #include "baseentity.h"
 #include "entityoutput.h"
-#include "convar.h"
+#include "tier1/convar.h"
 
 #include "player.h"	//Tony; need player.h so we can trigger inputs on the player, from our inputs!
 

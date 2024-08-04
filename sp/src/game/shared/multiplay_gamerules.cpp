@@ -13,7 +13,7 @@
 #include <KeyValues.h>
 #include "filesystem.h"
 #include "mp_shareddefs.h"
-#include "utlbuffer.h"
+#include "tier1/utlbuffer.h"
 
 #ifdef CLIENT_DLL
 

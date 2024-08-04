@@ -127,7 +127,7 @@ private:
 	CUtlVector< int >			m_HudRenderGroups;
 };
 
-#include "utlpriorityqueue.h"
+#include "tier1/utlpriorityqueue.h"
 
 inline bool RenderGroupLessFunc( CHudElement * const &lhs, CHudElement * const &rhs )
 {

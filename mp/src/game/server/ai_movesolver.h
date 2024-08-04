@@ -16,7 +16,7 @@
 #pragma once
 #endif
 
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "ai_obstacle_type.h"
 
 

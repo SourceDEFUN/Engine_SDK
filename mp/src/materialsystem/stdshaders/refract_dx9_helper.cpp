@@ -7,7 +7,7 @@
 
 #include "BaseVSShader.h"
 #include "refract_dx9_helper.h"
-#include "convar.h"
+#include "tier1/convar.h"
 #include "Refract_vs20.inc"
 #include "Refract_ps20.inc"
 #include "Refract_ps20b.inc"

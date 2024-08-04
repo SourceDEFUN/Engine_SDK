@@ -9,9 +9,9 @@
 #define WEAPONS_RESOURCE_H
 #pragma once
 
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 #include "weapon_parse.h"
-#include "utldict.h"
+#include "tier1/utldict.h"
 #include "hud.h"
 
 class C_BaseCombatWeapon;

@@ -13,7 +13,7 @@
 
 #include "particlemgr.h"
 #include "particlesphererenderer.h"
-#include "smartptr.h"
+#include "tier1/smartptr.h"
 
 
 // ------------------------------------------------------------------------------------------------ //

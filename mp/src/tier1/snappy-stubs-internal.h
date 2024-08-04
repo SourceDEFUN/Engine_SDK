@@ -47,7 +47,7 @@
 #include <sys/mman.h>
 #endif
 
-#include "snappy-stubs-public.h"
+#include "tier1/snappy-stubs-public.h"
 
 #if defined(__x86_64__)
 

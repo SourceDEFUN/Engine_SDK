@@ -21,7 +21,7 @@
 #include "engine/ivmodelinfo.h"
 #include "tier0/vprof.h"
 #include "fx_line.h"
-#include "interface.h"
+#include "tier1/interface.h"
 #include "materialsystem/imaterialsystem.h"
 #include "soundinfo.h"
 #include "mathlib/vmatrix.h"

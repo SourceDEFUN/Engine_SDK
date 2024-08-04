@@ -18,7 +18,7 @@
 #include "GDClass.h"
 #include "InputOutput.h"
 #include "UtlString.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 
 
 class MDkeyvalue;

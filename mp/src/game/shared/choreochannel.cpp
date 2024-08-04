@@ -12,7 +12,7 @@
 #include "choreochannel.h"
 #include "choreoevent.h"
 #include "choreoscene.h"
-#include "utlrbtree.h"
+#include "tier1/utlrbtree.h"
 #include "tier1/utlbuffer.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

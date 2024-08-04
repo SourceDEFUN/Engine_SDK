@@ -13,7 +13,7 @@
 #include "GameEventListener.h"
 #include "hl2orange.spa.h"
 #include "iachievementmgr.h"
-#include "utlmap.h"
+#include "tier1/utlmap.h"
 #ifndef NO_STEAM
 #include "steam/steam_api.h"
 #endif

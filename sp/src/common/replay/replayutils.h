@@ -8,7 +8,7 @@
 #pragma once
 #endif
 
-#include "utlstring.h"
+#include "tier1/utlstring.h"
 
 void Replay_GetFirstAvailableFilename( char *pDst, int nDstLen, const char *pIdealFilename, const char *pExt,
 									   const char *pFilePath, int nStartIndex );

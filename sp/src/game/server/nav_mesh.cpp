@@ -13,8 +13,8 @@
 #include "filesystem.h"
 #include "nav_mesh.h"
 #include "nav_node.h"
-#include "fmtstr.h"
-#include "utlbuffer.h"
+#include "tier1/fmtstr.h"
+#include "tier1/utlbuffer.h"
 #include "tier0/vprof.h"
 #ifdef TERROR
 #include "func_simpleladder.h"

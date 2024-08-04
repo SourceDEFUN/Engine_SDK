@@ -11,7 +11,7 @@
 #endif
 
 #include "datamap.h"
-#include "checksum_crc.h"
+#include "tier1/checksum_crc.h"
 
 #define MAX_BLOCK_BITS	13
 

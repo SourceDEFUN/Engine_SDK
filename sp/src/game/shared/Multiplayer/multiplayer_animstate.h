@@ -9,7 +9,7 @@
 #pragma once
 #endif
 
-#include "convar.h"
+#include "tier1/convar.h"
 #include "basecombatweapon_shared.h"
 #include "iplayeranimstate.h"
 

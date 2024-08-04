@@ -6,7 +6,7 @@
 
 #include "cbase.h"
 #include "EnvMessage.h"
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 #include "vguiscreen.h"
 #include "filesystem.h"
 

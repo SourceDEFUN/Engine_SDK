@@ -10,7 +10,7 @@
 #pragma once
 #endif
 
-#include "convar.h"
+#include "tier1/convar.h"
 
 float GetCurrentGravity( void );
 

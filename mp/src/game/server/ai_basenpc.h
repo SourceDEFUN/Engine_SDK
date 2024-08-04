@@ -27,7 +27,7 @@
 #include "ai_utils.h"
 #include "ai_moveshoot.h"
 #include "entityoutput.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "activitylist.h"
 #include "bitstring.h"
 #include "ai_basenpc.h"

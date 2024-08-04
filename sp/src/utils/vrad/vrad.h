@@ -16,7 +16,7 @@
 #pragma once
 
 
-#include "commonmacros.h"
+#include "tier0/commonmacros.h"
 #include "worldsize.h"
 #include "cmdlib.h"
 #include "mathlib/mathlib.h"
@@ -27,7 +27,7 @@
 #include "VRAD_DispColl.h"
 #include "UtlMemory.h"
 #include "UtlHash.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "iincremental.h"
 #include "raytrace.h"
 

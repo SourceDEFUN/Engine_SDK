@@ -10,7 +10,7 @@
 #pragma once
 #endif
 
-#include "utlmap.h"
+#include "tier1/utlmap.h"
 
 extern bool IsAlyxInInjuredMode( void );
 

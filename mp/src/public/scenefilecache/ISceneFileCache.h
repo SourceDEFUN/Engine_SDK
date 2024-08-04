@@ -10,7 +10,7 @@
 #pragma once
 #endif
 
-#include "interface.h"
+#include "tier1/interface.h"
 #include "appframework/IAppSystem.h"
 
 // the file cache can support persisting some calcs

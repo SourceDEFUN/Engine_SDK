@@ -8,7 +8,7 @@
 #define ISTEAMADDON_H
 #pragma once
 
-#include "interface.h"
+#include "tier1/interface.h"
 #include "AddOnTypes.h"
 #include <vgui_controls/Panel.h>
 

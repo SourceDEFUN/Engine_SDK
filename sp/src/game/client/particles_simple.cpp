@@ -7,7 +7,7 @@
 #include "cbase.h"
 #include "particles_simple.h"
 #include "env_wind_shared.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 #include "toolframework_client.h"
 #include "toolframework/itoolframework.h"
 #include "vstdlib/IKeyValuesSystem.h"

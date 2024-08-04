@@ -7,7 +7,7 @@
 
 #include "cbase.h"
 
-#include "utlhashtable.h"
+#include "tier1/utlhashtable.h"
 #ifndef GC
 #include "igamesystem.h"
 #endif

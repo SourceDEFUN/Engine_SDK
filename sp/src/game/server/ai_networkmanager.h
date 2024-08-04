@@ -7,7 +7,7 @@
 #ifndef AI_NETWORKMANAGER_H
 #define AI_NETWORKMANAGER_H
 
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "bitstring.h"
 
 #if defined( _WIN32 )

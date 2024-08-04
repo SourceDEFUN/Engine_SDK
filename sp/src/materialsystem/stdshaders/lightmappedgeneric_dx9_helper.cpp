@@ -10,7 +10,7 @@
 #include "BaseVSShader.h"
 #include "commandbuilder.h"
 #include "cpp_shader_constant_register_map.h"
-#include "convar.h"
+#include "tier1/convar.h"
 #include "SDK_lightmappedgeneric_ps20b.inc"
 #include "SDK_lightmappedgeneric_vs20.inc"
 #include "SDK_lightmappedgeneric_ps30.inc"

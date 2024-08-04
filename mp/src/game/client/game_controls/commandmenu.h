@@ -12,8 +12,8 @@
 #include <vgui_controls/Menu.h>
 #include <game/client/iviewport.h>
 #include <filesystem.h>
-#include "utlstack.h"
-#include "utlvector.h"
+#include "tier1/utlstack.h"
+#include "tier1/utlvector.h"
 #include <KeyValues.h>
 
 using namespace vgui;

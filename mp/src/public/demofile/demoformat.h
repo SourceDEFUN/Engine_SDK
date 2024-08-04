@@ -11,7 +11,7 @@
 #endif
 
 #include "mathlib/vector.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "tier0/platform.h"
 
 #define DEMO_HEADER_ID		"HL2DEMO"

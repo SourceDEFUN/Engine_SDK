@@ -13,7 +13,7 @@
 #include "materialsystem/itexture.h"
 #include "materialsystem/imaterialsystem.h"
 #include "imovehelper.h"
-#include "checksum_crc.h"
+#include "tier1/checksum_crc.h"
 #include "decals.h"
 #include "iefx.h"
 #include "view_scene.h"
@@ -419,7 +419,7 @@ void UTIL_SetOrigin( C_BaseEntity *entity, const Vector &vecOrigin )
 // UNDONE: Do we need this to avoid doing too much of this?  Measure startup times and see
 #if PRECACHE_OTHER_ONCE
 
-#include "utlsymbol.h"
+#include "tier1/utlsymbol.h"
 class CPrecacheOtherList : public CAutoServerSystem
 {
 public:

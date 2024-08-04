@@ -10,14 +10,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "basetypes.h"
-#include "tier1.h"
-#include "utldict.h"
+#include "tier0/basetypes.h"
+#include "tier1/tier1.h"
+#include "tier1/utldict.h"
 #include "Color.h"
-#include "mapbase_con_groups.h"
-#include "KeyValues.h"
+#include "tier1/mapbase_con_groups.h"
+#include "tier1/KeyValues.h"
 #include "filesystem.h"
-#include "mapbase_matchers_base.h"
+#include "tier1/mapbase_matchers_base.h"
 
 struct ConGroup_t
 {

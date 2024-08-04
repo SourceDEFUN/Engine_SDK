@@ -10,7 +10,7 @@
 #pragma once
 #endif
 
-#include "netadr.h"
+#include "tier1/netadr.h"
 
 class CBlockingUDPSocket
 {

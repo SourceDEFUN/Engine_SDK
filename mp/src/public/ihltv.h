@@ -13,7 +13,7 @@
 #pragma once
 #endif
 
-#include "interface.h"
+#include "tier1/interface.h"
 
 class IServer;
 class IHLTVDirector;

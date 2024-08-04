@@ -8,10 +8,10 @@
 #include <WorldSize.h>
 #include "fgdlib/GameData.h"
 #include "fgdlib/HelperInfo.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 #include "filesystem_tools.h"
 #include "tier1/strtools.h"
-#include "utlmap.h"
+#include "tier1/utlmap.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

@@ -7,11 +7,11 @@
 //=============================================================================//
 
 #include "vbsp.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "mathlib/vmatrix.h"
 #include "iscratchpad3d.h"
 #include "csg.h"
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 
 int		c_active_portals;
 int		c_peak_portals;

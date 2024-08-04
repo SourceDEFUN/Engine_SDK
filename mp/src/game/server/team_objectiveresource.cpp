@@ -7,7 +7,7 @@
 //=============================================================================
 #include "cbase.h"
 #include "team_objectiveresource.h"
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 #include <coordsize.h>
 #include "team.h"
 

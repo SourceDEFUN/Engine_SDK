@@ -8,7 +8,7 @@
 #ifndef AI_DEBUG_H
 #define AI_DEBUG_H
 
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 #include "ai_debug_shared.h"
 
 #if defined( _WIN32 )

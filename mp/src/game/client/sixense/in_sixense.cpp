@@ -3,7 +3,7 @@
 //#include <windows.h>
 #endif
 #include "cbase.h"
-#include "convar.h"
+#include "tier1/convar.h"
 
 
 

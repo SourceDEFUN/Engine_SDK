@@ -16,10 +16,10 @@
 
 #include <stdio.h>
 #include <math.h>
-#include "mempool.h"
-#include "utldict.h"
+#include "tier1/mempool.h"
+#include "tier1/utldict.h"
 #include "mathlib/mathlib.h"
-#include "characterset.h"
+#include "tier1/characterset.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include <tier0/dbg.h>

@@ -120,7 +120,7 @@
 
 #include "BaseVSShader.h"
 #include "mathlib/vmatrix.h"
-#include "convar.h"
+#include "tier1/convar.h"
 #include "flesh_interior_blended_pass_helper.h"
 
 // Auto generated inc files

@@ -15,7 +15,7 @@
 #include "in_buttons.h"
 #include "engine/IEngineSound.h"
 #include "soundenvelope.h"
-#include "utldict.h"
+#include "tier1/utldict.h"
 #include "isaverestore.h"
 #include "eventqueue.h"
 #include "saverestore_utlvector.h"

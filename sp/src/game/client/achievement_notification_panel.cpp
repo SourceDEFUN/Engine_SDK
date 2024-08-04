@@ -20,7 +20,7 @@
 #include "achievement_notification_panel.h"
 #include "steam/steam_api.h"
 #include "iachievementmgr.h"
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

@@ -10,7 +10,7 @@
 #include "materialsystem/itexture.h"
 #include "materialsystem/imaterialvar.h"
 #include "collisionutils.h"
-#include "fasttimer.h"
+#include "tier0/fasttimer.h"
 
 #define CONSTBOXEXTENT_LIGHT 1000
 #define CONSTBOXEXTENT_COL 500

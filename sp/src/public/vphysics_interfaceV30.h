@@ -11,7 +11,7 @@
 #pragma once
 #endif
 
-#include "interface.h"
+#include "tier1/interface.h"
 #include "mathlib/vector.h"
 #include "mathlib/vector4d.h"
 #include "vcollide.h"

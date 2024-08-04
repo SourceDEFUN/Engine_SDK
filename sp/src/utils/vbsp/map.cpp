@@ -11,7 +11,7 @@
 #include "tier1/strtools.h"
 #include "builddisp.h"
 #include "tier0/icommandline.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 #include "materialsub.h"
 #include "fgdlib/fgdlib.h"
 #include "manifest.h"

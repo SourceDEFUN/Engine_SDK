@@ -9,7 +9,7 @@
 #include "BaseVSShader.h"
 #include "cpp_shader_constant_register_map.h"
 #include "mathlib/vmatrix.h"
-#include "convar.h"
+#include "tier1/convar.h"
 
 #include "lighting_helper.h"
 

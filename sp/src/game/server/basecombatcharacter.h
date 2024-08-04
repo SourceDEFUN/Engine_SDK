@@ -25,7 +25,7 @@
 #include "baseentity.h"
 #include "baseflex.h"
 #include "damagemodifier.h"
-#include "utllinkedlist.h"
+#include "tier1/utllinkedlist.h"
 #include "ai_hull.h"
 #include "ai_utils.h"
 #include "physics_impact_damage.h"

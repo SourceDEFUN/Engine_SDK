@@ -13,7 +13,7 @@
 #include "EntityFlame.h"
 #include "ai_basenpc.h"
 #include "fire.h"
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

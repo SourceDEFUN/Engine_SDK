@@ -10,7 +10,7 @@
 #pragma once
 #endif
 
-#include "utlmap.h"
+#include "tier1/utlmap.h"
 #include "team.h"
 #include "teamplay_gamerules.h"
 #include "team_control_point.h"

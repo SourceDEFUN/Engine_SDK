@@ -6,7 +6,7 @@
 #endif
 
 #include "steam/steam_api.h"
-#include "utldelegate.h"
+#include "tier1/utldelegate.h"
 
 struct SteamLoggedOnChange_t
 {

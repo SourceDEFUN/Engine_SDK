@@ -29,7 +29,7 @@
 // UNDONE: Reduce some dependency here!
 #include "physics_prop_ragdoll.h"
 #include "items.h"
-#include "utlsymbol.h"
+#include "tier1/utlsymbol.h"
 #include "physobj.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

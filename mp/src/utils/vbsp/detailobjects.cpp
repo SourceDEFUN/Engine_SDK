@@ -9,9 +9,9 @@
 #include <windows.h>
 #include "vbsp.h"
 #include "bsplib.h"
-#include "KeyValues.h"
-#include "utlsymbol.h"
-#include "utlvector.h"
+#include "tier1/KeyValues.h"
+#include "tier1/utlsymbol.h"
+#include "tier1/utlvector.h"
 #include <io.h>
 #include "bspfile.h"
 #include "utilmatlib.h"
@@ -26,7 +26,7 @@
 #include "CollisionUtils.h"
 #include <float.h>
 #include "UtlLinkedList.h"
-#include "byteswap.h"
+#include "tier1/byteswap.h"
 #include "writebsp.h"
 
 //-----------------------------------------------------------------------------

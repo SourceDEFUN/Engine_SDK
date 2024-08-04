@@ -12,7 +12,7 @@
 #ifdef IS_WINDOWS_PC
 #include <windows.h> // UUIDCreate
 #else
-#include "checksum_crc.h"
+#include "tier1/checksum_crc.h"
 #endif
 #include "tier1/uniqueid.h"
 #include "tier1/utlbuffer.h"

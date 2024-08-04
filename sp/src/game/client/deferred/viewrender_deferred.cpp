@@ -1,6 +1,6 @@
 #include "cbase.h"
 #include "viewrender_deferred.h"
-#include "vprof.h"
+#include "tier0/vprof.h"
 #include "c_rope.h"
 #include "rendertexture.h"
 #include "renderparm.h"

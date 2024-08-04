@@ -6,7 +6,7 @@
 #include "cbase.h"
 #include "hl_gamemovement.h"
 #include "in_buttons.h"
-#include "utlrbtree.h"
+#include "tier1/utlrbtree.h"
 #include "hl2_shareddefs.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

@@ -11,7 +11,7 @@
 #pragma once
 #endif
 
-#include "convar.h"
+#include "tier1/convar.h"
 #include "mathlib/vector.h"
 #include "materialsystem/MaterialSystemUtil.h"
 

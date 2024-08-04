@@ -14,7 +14,7 @@
 #include "ai_activity.h"
 #include "steam/steam_gameserver.h"
 #include "enginecallback.h"
-#include "basetypes.h"
+#include "tier0/basetypes.h"
 #include "tempentity.h"
 #include "string_t.h"
 #include "gamestringpool.h"
@@ -27,9 +27,9 @@
 #include "vstdlib/random.h"
 #include <string.h>
 
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "util_shared.h"
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 #include "networkvar.h"
 
 struct levellist_t;

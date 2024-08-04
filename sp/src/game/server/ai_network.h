@@ -13,7 +13,7 @@
 #endif
 
 #include "ispatialpartition.h"
-#include "utlpriorityqueue.h"
+#include "tier1/utlpriorityqueue.h"
 
 // ------------------------------------
 

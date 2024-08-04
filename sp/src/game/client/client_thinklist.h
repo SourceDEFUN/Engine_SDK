@@ -13,10 +13,10 @@
 
 
 #include "igamesystem.h"
-#include "utllinkedlist.h"
+#include "tier1/utllinkedlist.h"
 #include "cliententitylist.h"
 #include "iclientthinkable.h"
-#include "utlrbtree.h"
+#include "tier1/utlrbtree.h"
 
 
 #define CLIENT_THINK_ALWAYS	-1293

@@ -8,8 +8,8 @@
 #ifndef AI_BEHAVIOR_STANDOFF_H
 #define AI_BEHAVIOR_STANDOFF_H
 
-#include "utlvector.h"
-#include "utlmap.h"
+#include "tier1/utlvector.h"
+#include "tier1/utlmap.h"
 
 #include "ai_behavior.h"
 #include "ai_utils.h"

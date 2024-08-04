@@ -7,7 +7,7 @@
 
 #include "disp_powerinfo.h"
 #include "disp_common.h"
-#include "commonmacros.h"
+#include "tier0/commonmacros.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

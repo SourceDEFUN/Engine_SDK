@@ -11,7 +11,7 @@
 #endif
 
 #include "bspfile.h"
-#include "utlmap.h"
+#include "tier1/utlmap.h"
 
 struct node_t;
 

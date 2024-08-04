@@ -12,7 +12,7 @@
 	#pragma once
 #endif
 
-#include "interface.h"		// For base interface
+#include "tier1/interface.h"		// For base interface
 
 class IMaterialSystem;
 class IMaterialSystemHardwareConfig;

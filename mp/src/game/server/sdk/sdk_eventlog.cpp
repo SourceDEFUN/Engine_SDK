@@ -7,7 +7,7 @@
 //=============================================================================//
 #include "cbase.h"
 #include "../EventLog.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 
 class CSDKEventLog : public CEventLog
 {

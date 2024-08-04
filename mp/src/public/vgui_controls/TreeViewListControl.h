@@ -15,7 +15,7 @@
 #include <utlvector.h>
 #include <vgui/VGUI.h>
 #include <vgui_controls/Panel.h>
-#include "utlsymbol.h"
+#include "tier1/utlsymbol.h"
 
 
 namespace vgui

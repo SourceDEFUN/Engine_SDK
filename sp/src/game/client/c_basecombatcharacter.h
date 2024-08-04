@@ -12,7 +12,7 @@
 #pragma once
 #endif
 
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 #include "c_baseflex.h"
 #ifdef GLOWS_ENABLE
 #include "glow_outline_effect.h"

@@ -13,7 +13,7 @@
 #include "bone_setup.h"
 #include "soundinfo.h"
 #include "tools/bonelist.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 #include "tier0/vprof.h"
 #include "toolframework/itoolframework.h"
 #include "choreoevent.h"

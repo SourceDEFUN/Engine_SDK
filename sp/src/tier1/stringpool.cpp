@@ -5,11 +5,11 @@
 // $NoKeywords: $
 //===========================================================================//
 
-#include "convar.h"
+#include "tier1/convar.h"
 #include "tier0/dbg.h"
-#include "stringpool.h"
+#include "tier1/stringpool.h"
 #include "tier1/strtools.h"
-#include "generichash.h"
+#include "tier1/generichash.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

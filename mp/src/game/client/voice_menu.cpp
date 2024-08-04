@@ -7,7 +7,7 @@
 #include "cbase.h"
 #include "c_baseplayer.h"
 #include "menu.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 #include "multiplay_gamerules.h"
 
 static int g_ActiveVoiceMenu = 0;

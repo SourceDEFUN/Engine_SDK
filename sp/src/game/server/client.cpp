@@ -46,7 +46,7 @@
 #endif
 
 #ifdef MAPBASE
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 #endif
 
 // memdbgon must be the last include file in a .cpp file!!!

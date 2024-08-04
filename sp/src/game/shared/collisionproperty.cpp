@@ -8,7 +8,7 @@
 #include "cbase.h"
 #include "collisionproperty.h"
 #include "igamesystem.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "tier0/threadtools.h"
 #include "tier0/tslist.h"
 

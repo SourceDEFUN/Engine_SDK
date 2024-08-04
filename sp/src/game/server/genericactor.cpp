@@ -9,7 +9,7 @@
 // Generic NPC - purely for scripted sequence work.
 //=========================================================
 #include "cbase.h"
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 #include "npcevent.h"
 #include "ai_basenpc.h"
 #include "ai_hull.h"

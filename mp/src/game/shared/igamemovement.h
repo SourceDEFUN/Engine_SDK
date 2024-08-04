@@ -15,7 +15,7 @@
 #endif
 
 #include "mathlib/vector.h"
-#include "interface.h"
+#include "tier1/interface.h"
 #include "imovehelper.h"
 #include "const.h"
 

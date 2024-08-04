@@ -7,7 +7,7 @@
 
 #include "vbsp.h"
 #include "detail.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include <assert.h>
 
 face_t *NewFaceFromFace (face_t *f);

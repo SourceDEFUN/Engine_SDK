@@ -14,7 +14,7 @@
 
 #ifndef CLIENT_DLL
 #include <KeyValues.h>
-#include "utldict.h"
+#include "tier1/utldict.h"
 #include "isaverestore.h"
 #include "eventqueue.h"
 #include "saverestore_utlvector.h"

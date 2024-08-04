@@ -11,7 +11,7 @@
 // $NoKeywords: $
 //=============================================================================//
 
-#include "interface.h"
+#include "tier1/interface.h"
 #include "filesystem.h"
 #undef VECTOR_NO_SLOW_OPERATIONS
 #include "mathlib/vector.h"
@@ -20,7 +20,7 @@
 #include "edict.h"
 #include "game/server/iplayerinfo.h"
 #include "igameevents.h"
-#include "convar.h"
+#include "tier1/convar.h"
 #include "vstdlib/random.h"
 #include "../../game/shared/in_buttons.h"
 #include "../../game/shared/shareddefs.h"

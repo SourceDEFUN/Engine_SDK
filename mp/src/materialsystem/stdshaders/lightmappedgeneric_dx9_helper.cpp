@@ -9,7 +9,7 @@
 #include "lightmappedgeneric_dx9_helper.h"
 #include "BaseVSShader.h"
 #include "commandbuilder.h"
-#include "convar.h"
+#include "tier1/convar.h"
 #include "lightmappedgeneric_ps20.inc"
 #include "lightmappedgeneric_vs20.inc"
 #include "lightmappedgeneric_ps20b.inc"

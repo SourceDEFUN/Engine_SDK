@@ -87,7 +87,7 @@
 #include "BaseVSShader.h"
 #include "mathlib/vmatrix.h"
 #include "emissive_scroll_blended_pass_helper.h"
-#include "convar.h"
+#include "tier1/convar.h"
 
 // Auto generated inc files
 #include "SDK_emissive_scroll_blended_pass_vs20.inc"

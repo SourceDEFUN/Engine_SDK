@@ -33,7 +33,7 @@
 #include "replay/ireplayrenderqueue.h"
 #include "replay/screenshot.h"
 #include "replay/ireplayperformancemanager.h"
-#include "replay/performance.h"
+#include "vphysics/performance.h"
 #include "vgui/ISystem.h"
 #include "youtubeapi.h"
 #include "replay/replayyoutubeapi.h"

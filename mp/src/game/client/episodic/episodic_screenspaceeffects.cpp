@@ -11,7 +11,7 @@
 #include "materialsystem/imaterialvar.h"
 #include "cdll_client_int.h"
 #include "materialsystem/itexture.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 #include "clienteffectprecachesystem.h"
 
 #include "episodic_screenspaceeffects.h"

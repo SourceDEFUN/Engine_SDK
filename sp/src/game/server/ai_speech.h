@@ -11,11 +11,11 @@
 #ifndef AI_SPEECH_H
 #define AI_SPEECH_H
 
-#include "utlmap.h"
+#include "tier1/utlmap.h"
 
 #include "soundflags.h"
 #include "AI_ResponseSystem.h"
-#include "utldict.h"
+#include "tier1/utldict.h"
 
 #if defined( _WIN32 )
 #pragma once

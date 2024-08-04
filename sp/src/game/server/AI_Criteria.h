@@ -15,7 +15,7 @@
 
 #include "tier1/utlrbtree.h"
 #include "tier1/utlsymbol.h"
-#include "interval.h"
+#include "tier1/interval.h"
 #include "mathlib/compressed_vector.h"
 
 extern const char *SplitContext( const char *raw, char *key, int keylen, char *value, int valuelen, float *duration );

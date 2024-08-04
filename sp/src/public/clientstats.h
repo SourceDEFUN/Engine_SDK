@@ -12,7 +12,7 @@
 #pragma once
 #endif
 
-#include "interface.h"
+#include "tier1/interface.h"
 #include <limits.h>
 #include "tier0/dbg.h"
 

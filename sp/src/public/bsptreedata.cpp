@@ -9,10 +9,10 @@
 //
 //=============================================================================//
 
-#include "basetypes.h"
+#include "tier0/basetypes.h"
 #include "bsptreedata.h"
-#include "utllinkedlist.h"
-#include "utlvector.h"
+#include "tier1/utllinkedlist.h"
+#include "tier1/utlvector.h"
 #include "tier0/dbg.h"
 #include "tier0/memdbgon.h"
 

@@ -12,7 +12,7 @@
 
 
 #include "entityoutput.h"
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 
 
 //-----------------------------------------------------------------------------

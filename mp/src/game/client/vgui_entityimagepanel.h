@@ -10,7 +10,7 @@
 #define VGUI_ENTITYIMAGEPANEL_H
 
 #include "vgui_EntityPanel.h"
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 
 //-----------------------------------------------------------------------------
 // forward declarations

@@ -11,7 +11,7 @@
 #include "ai_navigator.h"
 #include "ai_hint.h"
 #include "ai_behavior_follow.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 #include "filesystem.h"
 #include "eventqueue.h"
 #include "ai_playerally.h"
@@ -19,7 +19,7 @@
 #include "entityblocker.h"
 #include "npcevent.h"
 #ifdef MAPBASE
-#include "interval.h"
+#include "tier1/interval.h"
 #endif
 
 // memdbgon must be the last include file in a .cpp file!!!

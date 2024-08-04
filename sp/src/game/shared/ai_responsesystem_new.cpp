@@ -12,18 +12,18 @@
 #include "AI_Criteria.h"
 #include <KeyValues.h>
 #include "filesystem.h"
-#include "utldict.h"
+#include "tier1/utldict.h"
 #ifdef GAME_DLL
 #include "ai_speech.h"
 #endif
 #include "tier0/icommandline.h"
 #include <ctype.h>
 #include "isaverestore.h"
-#include "utlbuffer.h"
-#include "stringpool.h"
-#include "fmtstr.h"
+#include "tier1/utlbuffer.h"
+#include "tier1/stringpool.h"
+#include "tier1/fmtstr.h"
 #include "multiplay_gamerules.h"
-#include "characterset.h"
+#include "tier1/characterset.h"
 #include "responserules/response_host_interface.h"
 #include "../../responserules/runtime/response_types_internal.h"
 

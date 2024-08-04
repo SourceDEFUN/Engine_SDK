@@ -6,7 +6,7 @@
 
 #include "cbase.h"
 #include "particle_property.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 
 #ifdef CLIENT_DLL
 

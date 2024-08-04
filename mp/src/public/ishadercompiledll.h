@@ -11,7 +11,7 @@
 #endif
 
 
-#include "interface.h"
+#include "tier1/interface.h"
 
 #define SHADER_COMPILE_INTERFACE_VERSION "shadercompiledll_0"
 

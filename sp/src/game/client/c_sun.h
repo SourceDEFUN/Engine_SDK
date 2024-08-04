@@ -12,7 +12,7 @@
 #endif
 
 #include "c_baseentity.h"
-#include "utllinkedlist.h"
+#include "tier1/utllinkedlist.h"
 #include "glow_overlay.h"
 #include "sun_shared.h"
 

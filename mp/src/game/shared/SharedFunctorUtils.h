@@ -12,7 +12,7 @@
 #define _SHARED_FUNCTOR_UTILS_H_
 
 #include "debugoverlay_shared.h"
-#include "vprof.h"
+#include "tier0/vprof.h"
 
 //--------------------------------------------------------------------------------------------------------
 /**

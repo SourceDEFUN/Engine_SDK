@@ -6,7 +6,7 @@
 //=============================================================================//
 
 #include "cbase.h"
-#include "mempool.h"
+#include "tier1/mempool.h"
 #include "ai_navtype.h"
 #include "ai_node.h"
 #include "ai_waypoint.h"

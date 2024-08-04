@@ -10,9 +10,9 @@
 
 //----------------------------------------------------------------------------------------
 
-#include "interface.h"
+#include "tier1/interface.h"
 #include "replay/replayhandle.h"
-#include "utllinkedlist.h"
+#include "tier1/utllinkedlist.h"
 
 //----------------------------------------------------------------------------------------
 

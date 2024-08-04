@@ -13,8 +13,8 @@
 
 
 #include "BaseAnimatingOverlay.h"
-#include "utlvector.h"
-#include "utlrbtree.h"
+#include "tier1/utlvector.h"
+#include "tier1/utlrbtree.h"
 #include "sceneentity_shared.h"
 
 struct flexsettinghdr_t;

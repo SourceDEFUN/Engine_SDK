@@ -21,7 +21,7 @@
 #include <stdio.h>
 #define PROTECTED_THINGS_DISABLE
 
-#include "utldict.h"
+#include "tier1/utldict.h"
 
 #include <vgui/KeyCode.h>
 #include <vgui/Cursor.h>

@@ -7,8 +7,8 @@
 
 #include "rrbase.h"
 #ifdef MAPBASE
-#include "convar.h"
-#include "mapbase_matchers_base.h"
+#include "tier1/convar.h"
+#include "tier1/mapbase_matchers_base.h"
 #endif
 
 // memdbgon must be the last include file in a .cpp file!!!

@@ -11,7 +11,7 @@
 #pragma once
 #endif
 
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 
 class CPlayerResource : public CBaseEntity
 {

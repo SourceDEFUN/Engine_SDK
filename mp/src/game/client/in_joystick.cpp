@@ -9,7 +9,7 @@
 
 #include "cbase.h"
 #include "basehandle.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "cdll_client_int.h"
 #include "cdll_util.h"
 #include "kbutton.h"
@@ -17,7 +17,7 @@
 #include "iclientvehicle.h"
 #include "input.h"
 #include "iviewrender.h"
-#include "convar.h"
+#include "tier1/convar.h"
 #include "hud.h"
 #include "vgui/ISurface.h"
 #include "vgui_controls/Controls.h"

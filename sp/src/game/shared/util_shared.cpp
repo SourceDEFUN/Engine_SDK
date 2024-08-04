@@ -8,16 +8,16 @@
 #include "mathlib/mathlib.h"
 #include "util_shared.h"
 #include "model_types.h"
-#include "convar.h"
+#include "tier1/convar.h"
 #include "IEffects.h"
 #include "vphysics/object_hash.h"
 #include "mathlib/IceKey.H"
-#include "checksum_crc.h"
+#include "tier1/checksum_crc.h"
 #ifdef TF_CLIENT_DLL
 #include "cdll_util.h"
 #endif
 #include "particle_parse.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 #include "time.h"
 
 #ifdef USES_ECON_ITEMS

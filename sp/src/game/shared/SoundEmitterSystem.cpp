@@ -13,7 +13,7 @@
 #include "soundchars.h"
 #include "filesystem.h"
 #include "tier0/vprof.h"
-#include "checksum_crc.h"
+#include "tier1/checksum_crc.h"
 #include "tier0/icommandline.h"
 
 #if defined( TF_CLIENT_DLL ) || defined( TF_DLL )

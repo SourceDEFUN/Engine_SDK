@@ -8,7 +8,7 @@
 // faces.c
 
 #include "vbsp.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "utilmatlib.h"
 #include <float.h>
 #include "mstristrip.h"

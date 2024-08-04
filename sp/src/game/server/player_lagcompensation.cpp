@@ -10,7 +10,7 @@
 #include "igamesystem.h"
 #include "ilagcompensationmanager.h"
 #include "inetchannelinfo.h"
-#include "utllinkedlist.h"
+#include "tier1/utllinkedlist.h"
 #include "BaseAnimatingOverlay.h"
 #include "tier0/vprof.h"
 

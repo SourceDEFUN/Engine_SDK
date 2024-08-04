@@ -12,7 +12,7 @@
 #endif
 
 #include "predictable_entity.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "baseplayer_shared.h"
 #include "shared_classnames.h"
 

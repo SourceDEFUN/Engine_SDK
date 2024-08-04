@@ -7,7 +7,7 @@
 #include "cbase.h"
 #include "tier1/utllinkedlist.h"
 #include "bitstring.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "ai_navigator.h"
 #include "scripted.h"
 #include "ai_hint.h"

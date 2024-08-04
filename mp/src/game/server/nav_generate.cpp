@@ -16,7 +16,7 @@
 #include "nav_pathfind.h"
 #include "viewport_panel_names.h"
 //#include "terror/TerrorShared.h"
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 
 #ifdef TERROR
 #include "func_simpleladder.h"

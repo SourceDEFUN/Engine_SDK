@@ -21,7 +21,7 @@
 #include "collisionutils.h"
 #include <KeyValues.h>
 #include <bitbuf.h>
-#include "utllinkedlist.h"
+#include "tier1/utllinkedlist.h"
 #include "materialsystem/imaterialsystemhardwareconfig.h"
 #include "tier1/callqueue.h"
 #include "tier1/memstack.h"

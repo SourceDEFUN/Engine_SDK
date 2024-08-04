@@ -9,7 +9,7 @@
 #include "vgui_controls/ScrollBar.h"
 #include "vgui_controls/ScrollBarSlider.h"
 #include "vgui_controls/Button.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 
 // NOTE: This has to be the last file included!
 #include "tier0/memdbgon.h"

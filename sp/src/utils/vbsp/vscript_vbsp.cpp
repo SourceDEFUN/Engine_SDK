@@ -11,7 +11,7 @@
 #include "vbsp.h"
 #include "map.h"
 #include "fgdlib/fgdlib.h"
-#include "convar.h"
+#include "tier1/convar.h"
 
 #include "vscript_vbsp.h"
 #include "vscript_vbsp.nut"

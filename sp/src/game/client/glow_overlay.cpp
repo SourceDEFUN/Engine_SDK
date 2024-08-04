@@ -12,7 +12,7 @@
 #include "clienteffectprecachesystem.h"
 #include "c_pixel_visibility.h"
 #include "glow_overlay.h"
-#include "utllinkedlist.h"
+#include "tier1/utllinkedlist.h"
 #include "view_shared.h"
 #include "tier0/vprof.h"
 #include "materialsystem/imaterialvar.h"

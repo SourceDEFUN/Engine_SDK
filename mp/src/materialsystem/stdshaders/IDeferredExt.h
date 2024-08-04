@@ -2,7 +2,7 @@
 #define I_DEFERRED_EXT_H
 
 #ifdef CLIENT_DLL
-#include "interface.h"
+#include "tier1/interface.h"
 #include "deferred/deferred_shared_common.h"
 #else
 #include "tier1/interface.h"

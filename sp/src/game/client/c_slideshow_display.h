@@ -9,7 +9,7 @@
 #define C_SLIDESHOW_DISPLAY_H
 
 #include "cbase.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 
 
 struct SlideMaterialList_t

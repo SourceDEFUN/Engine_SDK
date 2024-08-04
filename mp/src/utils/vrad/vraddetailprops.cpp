@@ -13,14 +13,14 @@
 #include "Bsplib.h"
 #include "GameBSPFile.h"
 #include "UtlBuffer.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "CModel.h"
 #include "studio.h"
 #include "pacifier.h"
 #include "vraddetailprops.h"
 #include "mathlib/halton.h"
 #include "messbuf.h"
-#include "byteswap.h"
+#include "tier1/byteswap.h"
 
 bool LoadStudioModel( char const* pModelName, CUtlBuffer& buf );
 

@@ -13,7 +13,7 @@
 
 #include "mathlib/mathlib.h"
 #include "mathlib/vector.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 
 
 // Uncomment this for client-side simulation

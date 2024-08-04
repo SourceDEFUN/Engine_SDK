@@ -28,7 +28,7 @@
 #include "tier0/vprof.h"
 #include "tier1/utlarray.h"
 #include "tier1/utlbuffer.h"
-#include "fileio.h"
+#include "tier1/fileio.h"
 //#include "constants.h"
 #include "tier0/validator.h"
 #include "tier1/utlmap.h"

@@ -14,7 +14,7 @@
 #include "datacache/imdlcache.h"
 #include "bone_setup.h"
 #include "physics_prop_ragdoll.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 #include "props.h"
 #include "RagdollBoogie.h"
 #include "AI_Criteria.h"

@@ -11,7 +11,7 @@
 #endif
 
 
-#include "convar.h"
+#include "tier1/convar.h"
 #include "iplayeranimstate.h"
 #include "base_playeranimstate.h"
 

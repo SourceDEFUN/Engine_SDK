@@ -6,8 +6,8 @@
 //=============================================================================//
 
 #include "disp_vrad.h"
-#include "utllinkedlist.h"
-#include "utlvector.h"
+#include "tier1/utllinkedlist.h"
+#include "tier1/utlvector.h"
 #include "iscratchpad3d.h"
 #include "scratchpadutils.h"
 

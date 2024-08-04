@@ -12,7 +12,7 @@
 #endif
 
 
-#include "interface.h"
+#include "tier1/interface.h"
 
 struct factorylist_t
 {

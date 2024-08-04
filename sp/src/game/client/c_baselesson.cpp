@@ -13,7 +13,7 @@
 #include "c_world.h"
 #include "iinput.h"
 #include "ammodef.h"
-#include "vprof.h"
+#include "tier0/vprof.h"
 #include "view.h"
 #include "vstdlib/IKeyValuesSystem.h"
 #ifdef MAPBASE

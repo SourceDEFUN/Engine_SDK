@@ -13,7 +13,7 @@
 #include "materialsystem/imaterial.h"
 #include "materialsystem/itexture.h"
 #include "baseanimatedtextureproxy.h"
-#include "utlstring.h"
+#include "tier1/utlstring.h"
 #include <KeyValues.h>
 
 // memdbgon must be the last include file in a .cpp file!!!

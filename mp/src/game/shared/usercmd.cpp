@@ -7,8 +7,8 @@
 
 #include "cbase.h"
 #include "usercmd.h"
-#include "bitbuf.h"
-#include "checksum_md5.h"
+#include "tier1/bitbuf.h"
+#include "tier1/checksum_md5.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

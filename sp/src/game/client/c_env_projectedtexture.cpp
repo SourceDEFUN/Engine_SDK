@@ -7,12 +7,12 @@
 #include "cbase.h"
 #ifdef ASW_PROJECTED_TEXTURES
 #include "C_Env_Projected_Texture.h"
-#include "vprof.h"
+#include "tier0/vprof.h"
 #endif
 #ifdef MAPBASE
 #include "materialsystem/itexture.h"
 #endif
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 #include "materialsystem/imesh.h"
 #include "materialsystem/imaterial.h"
 #include "view.h"

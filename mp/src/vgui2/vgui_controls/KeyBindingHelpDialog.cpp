@@ -11,7 +11,7 @@
 #include "vgui/ILocalize.h"
 #include "vgui/IInput.h"
 #include "vgui/ISystem.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 #include "vgui/Cursor.h"
 #include "tier1/utldict.h"
 #include "vgui_controls/KeyBoardEditorDialog.h"

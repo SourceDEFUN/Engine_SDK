@@ -5,7 +5,7 @@
 //=============================================================================//
 
 #include "cbase.h"
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 #include "materialsystem/imesh.h"
 #include "materialsystem/imaterial.h"
 #include "view.h"
@@ -13,7 +13,7 @@
 #include "view_shared.h"
 #include "texture_group_names.h"
 #include "tier0/icommandline.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 #include "ScreenSpaceEffects.h"
 #include "materialsystem/imaterialsystemhardwareconfig.h"
 

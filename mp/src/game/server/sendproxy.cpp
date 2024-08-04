@@ -7,7 +7,7 @@
 
 #include "cbase.h"
 #include "sendproxy.h"
-#include "basetypes.h"
+#include "tier0/basetypes.h"
 #include "baseentity.h"
 #include "team.h"
 #include "player.h"

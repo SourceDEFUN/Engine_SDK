@@ -7,7 +7,7 @@
 #include "winlite.h"
 #include "html_chrome.h"
 #include "tier1/interface.h"
-#include "reliabletimer.h"
+#include "tier1/reliabletimer.h"
 #include "htmlmanager.h"
 
 #include "html/htmlprotobuf.h"

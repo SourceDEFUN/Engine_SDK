@@ -17,7 +17,7 @@
 #endif
 
 
-#include "interface.h"
+#include "tier1/interface.h"
 #include "mathlib/vector.h" // Solely to get at define for QAngle
 
 

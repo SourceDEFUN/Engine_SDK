@@ -13,7 +13,7 @@
 #include "replay/ireplaymovierenderer.h"
 #include "replay/rendermovieparams.h"
 #include "movieobjects/timeutils.h"
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 
 //-----------------------------------------------------------------------------
 

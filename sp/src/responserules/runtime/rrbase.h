@@ -32,12 +32,12 @@
 // tier 0
 #include "tier0/dbg.h"
 #include "tier0/platform.h"
-#include "basetypes.h"
+#include "tier0/basetypes.h"
 
 // tier 1
 #include "tier1/strtools.h"
-#include "utlvector.h"
-#include "utlsymbol.h"
+#include "tier1/utlvector.h"
+#include "tier1/utlsymbol.h"
 
 // tier 2
 #include "string_t.h"

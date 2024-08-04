@@ -18,7 +18,7 @@
 #include <vgui/ILocalize.h>
 #include "iclientmode.h"
 #include "hud_macros.h"
-#include "checksum_crc.h"
+#include "tier1/checksum_crc.h"
 #include "filesystem.h"
 #include "datacache/idatacache.h"
 #include "SoundEmitterSystem/isoundemittersystembase.h"

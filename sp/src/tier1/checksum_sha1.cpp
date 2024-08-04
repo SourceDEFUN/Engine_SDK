@@ -22,7 +22,7 @@
 */
 
 #if !defined(_MINIMUM_BUILD_)
-#include "checksum_sha1.h"
+#include "tier1/checksum_sha1.h"
 #else
 //
 //	This path is build in the CEG/DRM projects where we require that no CRT references are made !

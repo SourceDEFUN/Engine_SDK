@@ -7,7 +7,7 @@
 #endif
 
 #include "tier1/ilocalize.h"
-#include "utlstring.h"
+#include "tier1/utlstring.h"
 
 #pragma warning( disable: 4018 ) // '<' : signed/unsigned mismatch
 

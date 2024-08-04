@@ -20,7 +20,7 @@
 #ifdef MAPBASE
 #include <vgui_controls/Controls.h> 
 #include <vgui/ILocalize.h>
-#include "utlbuffer.h"
+#include "tier1/utlbuffer.h"
 #include "saverestore_utlvector.h"
 #endif
 

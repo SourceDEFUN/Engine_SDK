@@ -11,7 +11,7 @@
 #pragma once
 #endif
 
-#include "interface.h"
+#include "tier1/interface.h"
 #include "mathlib/vector.h"
 
 #define INTERFACEVERSION_MAPDATA	"MapData001"

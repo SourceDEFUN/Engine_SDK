@@ -11,10 +11,10 @@
 #endif
 
 #include "tier1/utllinkedlist.h"
-#include "rangecheckedvar.h"
+#include "tier1/rangecheckedvar.h"
 #include "lerp_functions.h"
 #include "animationlayer.h"
-#include "convar.h"
+#include "tier1/convar.h"
 
 
 #include "tier0/memdbgon.h"

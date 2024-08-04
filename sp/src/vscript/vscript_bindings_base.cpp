@@ -14,7 +14,7 @@
 #include "tier1/fmtstr.h"
 
 #include <tier0/platform.h>
-#include "icommandline.h"
+#include "tier0/icommandline.h"
 #include "worldsize.h"
 #include "bspflags.h"
 

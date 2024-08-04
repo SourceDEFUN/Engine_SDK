@@ -16,7 +16,7 @@
 #include "tier0/icommandline.h"
 #include "igamesystem.h"
 #include "filesystem.h"
-#include "utlbuffer.h"
+#include "tier1/utlbuffer.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

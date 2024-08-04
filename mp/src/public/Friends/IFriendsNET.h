@@ -11,7 +11,7 @@
 class CUtlMsgBuffer;
 class CServerSession;
 
-#include "interface.h"
+#include "tier1/interface.h"
 #include "Friends/AddOns/AddOnTypes.h"
 
 class IFriendsNET : public IBaseInterface

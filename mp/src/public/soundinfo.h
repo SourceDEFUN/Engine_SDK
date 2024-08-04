@@ -11,7 +11,7 @@
 #pragma once
 #endif
 
-#include "bitbuf.h"
+#include "tier1/bitbuf.h"
 #include "const.h"
 #include "soundflags.h"
 #include "coordsize.h"

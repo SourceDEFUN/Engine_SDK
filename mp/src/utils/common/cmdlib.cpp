@@ -19,11 +19,11 @@
 #ifdef _WIN32
 #include <conio.h>
 #endif
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "filesystem_helpers.h"
-#include "utllinkedlist.h"
+#include "tier1/utllinkedlist.h"
 #include "tier0/icommandline.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 #include "filesystem_tools.h"
 
 #if defined( MPI )

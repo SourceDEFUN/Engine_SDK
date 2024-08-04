@@ -23,7 +23,7 @@
 
 #include "mathlib/vector.h"
 #include "mathlib/vector2d.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 
 class IFileSystem;
 

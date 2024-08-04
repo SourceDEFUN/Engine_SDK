@@ -12,7 +12,7 @@
 
 #include "cbase.h"
 #include "trigger_area_capture.h"
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 #include "envspark.h"
 #include "GameEventListener.h"
 

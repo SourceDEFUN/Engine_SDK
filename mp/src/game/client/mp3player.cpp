@@ -8,7 +8,7 @@
 
 #if 0
 #include "mp3player.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 #include "filesystem.h"
 
 #include "vgui_controls/MenuButton.h"
@@ -29,7 +29,7 @@
 #include "vgui_controls/TreeView.h"
 #include "vgui_controls/FileOpenDialog.h"
 #include "vgui_controls/DirectorySelectDialog.h"
-#include "checksum_crc.h"
+#include "tier1/checksum_crc.h"
 
 #include "engine/IEngineSound.h"
 

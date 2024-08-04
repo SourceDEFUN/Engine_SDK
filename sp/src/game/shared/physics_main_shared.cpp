@@ -7,16 +7,16 @@
 
 #include "cbase.h"
 #include "engine/IEngineSound.h"
-#include "mempool.h"
+#include "tier1/mempool.h"
 #include "movevars_shared.h"
-#include "utlrbtree.h"
+#include "tier1/utlrbtree.h"
 #include "tier0/vprof.h"
 #include "entitydatainstantiator.h"
 #include "positionwatcher.h"
 #include "movetype_push.h"
 #include "vphysicsupdateai.h"
 #include "igamesystem.h"
-#include "utlmultilist.h"
+#include "tier1/utlmultilist.h"
 #include "tier1/callqueue.h"
 
 #ifdef PORTAL

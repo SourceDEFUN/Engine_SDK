@@ -33,11 +33,11 @@
 #include "vgui_controls/Menu.h"
 #include "vgui_controls/MenuItem.h"
 
-#include "UtlSortVector.h"
+#include "tier1/UtlSortVector.h"
 
 #include "tier1/utldict.h"
 #include "tier1/utlbuffer.h"
-#include "mempool.h"
+#include "tier1/mempool.h"
 #include "filesystem.h"
 #include "tier0/icommandline.h"
 #include "tier0/minidump.h"

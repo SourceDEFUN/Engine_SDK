@@ -11,9 +11,9 @@
 #pragma once
 #endif
 
-#include "interface.h"
-#include "utlvector.h"
-#include "utlstring.h"
+#include "tier1/interface.h"
+#include "tier1/utlvector.h"
+#include "tier1/utlstring.h"
 
 class IFileSystem;
 

@@ -19,7 +19,7 @@
 
 #include <vgui/VGUI.h>
 #include <vgui/IHTML.h> // CreateHTML, PaintHTML 
-#include "interface.h"
+#include "tier1/interface.h"
 #include "IVguiMatInfo.h"
 
 #include "appframework/IAppSystem.h"

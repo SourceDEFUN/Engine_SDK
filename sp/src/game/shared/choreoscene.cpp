@@ -11,7 +11,7 @@
 #include <windows.h>
 #endif
 
-#include "basetypes.h"
+#include "tier0/basetypes.h"
 #include <stdio.h>
 #include "choreoscene.h"
 #include "choreoevent.h"
@@ -19,9 +19,9 @@
 #include "choreoactor.h"
 #include "ichoreoeventcallback.h"
 #include "iscenetokenprocessor.h"
-#include "utlbuffer.h"
+#include "tier1/utlbuffer.h"
 #include "filesystem.h"
-#include "utlrbtree.h"
+#include "tier1/utlrbtree.h"
 #include "mathlib/mathlib.h"
 #include "tier1/strtools.h"
 #include "tier2/tier2.h"

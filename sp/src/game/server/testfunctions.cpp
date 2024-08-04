@@ -6,7 +6,7 @@
 //=============================================================================//
 
 #include "cbase.h"
-#include "convar.h"
+#include "tier1/convar.h"
 #include "tier0/dbg.h"
 #include "player.h"
 #include "world.h"

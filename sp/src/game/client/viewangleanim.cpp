@@ -7,7 +7,7 @@
 #include "cbase.h"
 #include "filesystem.h"
 #include "viewangleanim.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 
 #include "tier0/memdbgon.h"
 

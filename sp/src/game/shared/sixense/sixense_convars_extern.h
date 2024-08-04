@@ -3,7 +3,7 @@
 class ConVar;
 
 #include "cbase.h"
-#include "convar.h"
+#include "tier1/convar.h"
 
 #ifdef SIXENSE
 

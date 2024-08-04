@@ -15,7 +15,7 @@
 #include "engine/IEngineSound.h"
 #include "fx_quad.h"
 #include "engine/ivdebugoverlay.h"
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 #include "fx.h"
 #include "fx_blood.h"
 #include "effect_color_tables.h"

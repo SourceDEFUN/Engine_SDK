@@ -16,7 +16,7 @@
 
 
 #include "teamplay_gamerules.h"
-#include "convar.h"
+#include "tier1/convar.h"
 #include "gamevars_shared.h"
 
 #ifdef CLIENT_DLL

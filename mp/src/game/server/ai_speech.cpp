@@ -11,7 +11,7 @@
 
 #include "game.h"
 #include "engine/IEngineSound.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 #include "ai_basenpc.h"
 #include "AI_Criteria.h"
 #include "isaverestore.h"

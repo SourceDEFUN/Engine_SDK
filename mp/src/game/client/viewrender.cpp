@@ -46,7 +46,7 @@
 #include "ScreenSpaceEffects.h"
 #include "toolframework_client.h"
 #include "c_func_reflective_glass.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 #include "renderparm.h"
 #include "studio_stats.h"
 #include "con_nprint.h"

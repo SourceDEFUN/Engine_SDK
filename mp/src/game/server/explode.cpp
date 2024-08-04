@@ -12,7 +12,7 @@
 #include "IEffects.h"
 #include "vstdlib/random.h"
 #include "tier1/strtools.h"
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

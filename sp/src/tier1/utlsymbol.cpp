@@ -8,13 +8,13 @@
 
 #pragma warning (disable:4514)
 
-#include "utlsymbol.h"
-#include "KeyValues.h"
+#include "tier1/utlsymbol.h"
+#include "tier1/KeyValues.h"
 #include "tier0/threadtools.h"
 #include "tier0/memdbgon.h"
-#include "stringpool.h"
-#include "utlhashtable.h"
-#include "utlstring.h"
+#include "tier1/stringpool.h"
+#include "tier1/utlhashtable.h"
+#include "tier1/utlstring.h"
 
 // Ensure that everybody has the right compiler version installed. The version
 // number can be obtained by looking at the compiler output when you type 'cl'

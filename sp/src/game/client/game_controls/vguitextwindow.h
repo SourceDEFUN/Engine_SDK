@@ -16,7 +16,7 @@
 #include <vgui_controls/HTML.h>
 
 #include <game/client/iviewport.h>
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 
 namespace vgui
 {

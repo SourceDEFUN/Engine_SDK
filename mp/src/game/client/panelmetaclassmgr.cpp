@@ -11,7 +11,7 @@
 #include "panelmetaclassmgr.h"
 #include <KeyValues.h>
 #include <vgui_controls/Panel.h>
-#include "utldict.h"
+#include "tier1/utldict.h"
 #include "filesystem.h"
 #include <KeyValues.h>
 

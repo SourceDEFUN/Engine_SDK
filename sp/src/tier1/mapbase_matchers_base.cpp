@@ -5,8 +5,8 @@
 // $NoKeywords: $
 //=============================================================================
 
-#include "mapbase_matchers_base.h"
-#include "convar.h"
+#include "tier1/mapbase_matchers_base.h"
+#include "tier1/convar.h"
 
 // glibc (Linux) uses these tokens when including <regex>, so we must not #define them
 #undef max

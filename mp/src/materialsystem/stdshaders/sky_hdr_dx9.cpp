@@ -14,7 +14,7 @@
 #include "sky_hdr_compressed_rgbs_ps20.inc"
 #include "sky_hdr_compressed_rgbs_ps20b.inc"
 
-#include "convar.h"
+#include "tier1/convar.h"
 
 static ConVar mat_use_compressed_hdr_textures( "mat_use_compressed_hdr_textures", "1" );
 

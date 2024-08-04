@@ -13,9 +13,9 @@
 #include "clienteffectprecachesystem.h"
 #include "view.h"
 #include "viewrender.h"
-#include "utlmultilist.h"
-#include "vprof.h"
-#include "icommandline.h"
+#include "tier1/utlmultilist.h"
+#include "tier0/vprof.h"
+#include "tier0/icommandline.h"
 #include "sourcevr/isourcevirtualreality.h"
 
 static void PixelvisDrawChanged( IConVar *pPixelvisVar, const char *pOld, float flOldValue );

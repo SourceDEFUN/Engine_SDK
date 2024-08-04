@@ -11,7 +11,7 @@
 #pragma once
 #endif
 
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "mathlib/vector.h"
 
 #ifdef GLOWS_ENABLE

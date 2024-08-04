@@ -13,8 +13,8 @@
 #endif
 
 #include "studio.h"
-#include "utlvector.h"
-#include "utllinkedlist.h"
+#include "tier1/utlvector.h"
+#include "tier1/utllinkedlist.h"
 
 //-----------------------------------------------------------------------------
 /**

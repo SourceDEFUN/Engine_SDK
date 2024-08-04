@@ -12,7 +12,7 @@
 #endif
 
 #include "responserules/response_types.h"
-#include "utldict.h"
+#include "tier1/utldict.h"
 
 
 namespace ResponseRules

@@ -10,7 +10,7 @@
 #pragma once
 #endif
 
-#include "utlsymbol.h"
+#include "tier1/utlsymbol.h"
 
 class CUtlSymbolDataOps : public CDefSaveRestoreOps
 {

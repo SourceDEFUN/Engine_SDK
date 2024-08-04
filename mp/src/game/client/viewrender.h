@@ -10,7 +10,7 @@
 #pragma once
 #endif
 
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 #include "tier1/utlstack.h"
 #include "iviewrender.h"
 #include "view_shared.h"

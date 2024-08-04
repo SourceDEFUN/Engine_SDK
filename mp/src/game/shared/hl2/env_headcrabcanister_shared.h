@@ -14,7 +14,7 @@
 
 #include "vstdlib/random.h"
 #include "mathlib/vector.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "networkvar.h"
 
 //=============================================================================

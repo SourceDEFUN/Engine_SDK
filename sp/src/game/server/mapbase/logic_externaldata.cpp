@@ -6,7 +6,7 @@
 
 #include "cbase.h"
 #include "filesystem.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 
 
 //-----------------------------------------------------------------------------

@@ -8,7 +8,7 @@
 #include "cbase.h"
 #include "sdk_gamerules.h"
 #include "ammodef.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 #include "weapon_sdkbase.h"
 
 

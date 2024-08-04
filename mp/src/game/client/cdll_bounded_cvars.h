@@ -12,7 +12,7 @@
 #endif
 
 
-#include "convar_serverbounded.h"
+#include "tier1/convar_serverbounded.h"
 
 
 extern ConVar_ServerBounded *cl_predict;

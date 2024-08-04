@@ -11,7 +11,7 @@
 #include "mathlib/vmatrix.h"
 #include "mathlib/bumpvects.h"
 #include "cpp_shader_constant_register_map.h"
-#include "convar.h"
+#include "tier1/convar.h"
 
 #ifndef GAME_SHADER_DLL
 #ifdef HDR

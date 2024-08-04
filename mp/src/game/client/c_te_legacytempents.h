@@ -16,8 +16,8 @@ class C_BaseEntity;
 class C_LocalTempEntity;
 struct model_t;
 
-#include "mempool.h"
-#include "utllinkedlist.h"
+#include "tier1/mempool.h"
+#include "tier1/utllinkedlist.h"
 
 #if defined( CSTRIKE_DLL ) || defined( SDK_DLL )
 enum

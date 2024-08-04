@@ -117,8 +117,8 @@ entities. Each one is useful under different conditions.
 #include "iclientrenderable.h"
 #include "clientleafsystem.h"
 #include "tier0/fasttimer.h"
-#include "utllinkedlist.h"
-#include "utldict.h"
+#include "tier1/utllinkedlist.h"
+#include "tier1/utldict.h"
 #if defined(WIN32) && _MSC_VER < 1900
 #include <typeinfo.h>
 #else

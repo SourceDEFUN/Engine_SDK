@@ -21,7 +21,7 @@
 #include "ai_basenpc.h"
 #include "gamerules.h"
 #include "vphysics_interface.h"
-#include "mempool.h"
+#include "tier1/mempool.h"
 #include "entitylist.h"
 #include "engine/IEngineSound.h"
 #include "datacache/imdlcache.h"

@@ -7,8 +7,8 @@
 
 #include "cbase.h"
 
-#include "utlpriorityqueue.h"
-#include "utlmap.h"
+#include "tier1/utlpriorityqueue.h"
+#include "tier1/utlmap.h"
 #include "isaverestore.h"
 #include "physics.h"
 #include "physics_saverestore.h"

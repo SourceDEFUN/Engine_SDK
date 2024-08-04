@@ -15,7 +15,7 @@
 #include "particlemgr.h"
 #include "particles/particles.h"
 #include "particlesphererenderer.h"
-#include "smartptr.h"
+#include "tier1/smartptr.h"
 #include "particles_simple.h"
 #include "tier1/utlobjectreference.h"
 

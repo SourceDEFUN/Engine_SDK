@@ -11,7 +11,7 @@
 #define IVOICESERVER_H
 
 
-#include "interface.h"
+#include "tier1/interface.h"
 
 
 #define INTERFACEVERSION_VOICESERVER	"VoiceServer002"

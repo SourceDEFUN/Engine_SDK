@@ -478,7 +478,7 @@ void ReadPolyFileType(const char *name, int nList, BOOL drawLines)
 #if BENCHMARK_PHY
 #define NUM_COLLISION_TESTS 2500
 #include "gametrace.h"
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 
 
 struct testlist_t

@@ -4,7 +4,7 @@
 //
 //=============================================================================//
 #include "cbase.h"
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 #include "materialsystem/imesh.h"
 #include "view.h"
 #include "iviewrender.h"

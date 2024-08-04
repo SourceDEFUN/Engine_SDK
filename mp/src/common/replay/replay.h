@@ -14,8 +14,8 @@
 #include "replay/replaytime.h"
 #include "replay/basereplayserializeable.h"
 #include "qlimits.h"
-#include "utlstring.h"
-#include "utlvector.h"
+#include "tier1/utlstring.h"
+#include "tier1/utlvector.h"
 #include "replay/shared_defs.h"
 
 //----------------------------------------------------------------------------------------

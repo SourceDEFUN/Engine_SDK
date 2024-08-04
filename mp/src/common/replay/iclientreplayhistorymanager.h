@@ -12,9 +12,9 @@
 
 #include "replay/replayhandle.h"
 #include "replay/screenshot.h"
-#include "interface.h"
+#include "tier1/interface.h"
 #include "qlimits.h"
-#include "convar.h"
+#include "tier1/convar.h"
 #include "engine/http.h"
 #include "tier1/utllinkedlist.h"
 #include "tier1/checksum_crc.h"

@@ -12,10 +12,10 @@
 #include "motionmapper.h"
 #include "tier1/strtools.h"
 #include "tier0/icommandline.h"
-#include "utldict.h"
+#include "tier1/utldict.h"
 #include <windows.h>
 #include "UtlBuffer.h"
-#include "utlsymbol.h"
+#include "tier1/utlsymbol.h"
 
 bool g_quiet = false;
 bool g_verbose = false;

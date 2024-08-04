@@ -18,7 +18,7 @@
 #endif
 
 #ifdef CSTRIKE_DLL
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 #endif
 
 #ifdef TF_DLL

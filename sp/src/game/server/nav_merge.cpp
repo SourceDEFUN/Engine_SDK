@@ -3,9 +3,9 @@
 //========= Copyright Valve Corporation, All rights reserved. ============//
 
 #include "cbase.h"
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 #include "tier0/vprof.h"
-#include "utldict.h"
+#include "tier1/utldict.h"
 
 #include "nav_mesh.h"
 

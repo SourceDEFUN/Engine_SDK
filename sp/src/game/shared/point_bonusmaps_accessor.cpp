@@ -9,7 +9,7 @@
 #include "cbase.h"
 
 #include "GameUI/IGameUI.h"
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 #include "igameevents.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

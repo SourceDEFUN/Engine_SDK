@@ -29,7 +29,7 @@
 // Game DLL Headers
 #include "soundent.h"
 #include "eventqueue.h"
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 #include "gameweaponmanager.h"
 
 #ifdef HL2MP

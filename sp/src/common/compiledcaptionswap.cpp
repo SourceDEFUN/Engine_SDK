@@ -5,8 +5,8 @@
 // $NoKeywords: $
 //=============================================================================//
 
-#include "utlbuffer.h"
-#include "byteswap.h"
+#include "tier1/utlbuffer.h"
+#include "tier1/byteswap.h"
 #include "filesystem.h"
 #include "tier2/fileutils.h"
 #include "captioncompiler.h"

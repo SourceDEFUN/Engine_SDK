@@ -6,7 +6,7 @@
 //=============================================================================//
 
 #include "vrad.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "cmodel.h"
 #include "BSPTreeData.h"
 #include "VRAD_DispColl.h"
@@ -15,7 +15,7 @@
 #include "Radial.h"
 #include "CollisionUtils.h"
 #include "mathlib/bumpvects.h"
-#include "utlrbtree.h"
+#include "tier1/utlrbtree.h"
 #include "tier0/fasttimer.h"
 #include "disp_vrad.h"
 

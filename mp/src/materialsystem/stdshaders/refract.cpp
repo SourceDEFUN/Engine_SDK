@@ -6,7 +6,7 @@
 //=============================================================================//
 
 #include "BaseVSShader.h"
-#include "convar.h"
+#include "tier1/convar.h"
 #include "refract_dx9_helper.h"
 
 DEFINE_FALLBACK_SHADER( Refract, Refract_DX90 )

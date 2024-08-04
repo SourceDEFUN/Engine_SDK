@@ -26,9 +26,9 @@
 // (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 // OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-#include "snappy.h"
+#include "tier1/snappy.h"
 #include "snappy-internal.h"
-#include "snappy-sinksource.h"
+#include "tier1/snappy-sinksource.h"
 
 #include <stdio.h>
 

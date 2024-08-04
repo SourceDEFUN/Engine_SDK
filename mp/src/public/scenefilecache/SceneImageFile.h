@@ -10,7 +10,7 @@
 #pragma once
 #endif
 
-#include "commonmacros.h"
+#include "tier0/commonmacros.h"
 #include "tier1/checksum_crc.h"
 
 #define SCENE_IMAGE_ID			MAKEID( 'V','S','I','F' )

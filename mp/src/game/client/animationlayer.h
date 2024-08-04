@@ -11,7 +11,7 @@
 #endif
 
 
-#include "rangecheckedvar.h"
+#include "tier1/rangecheckedvar.h"
 #include "lerp_functions.h"
 #include "networkvar.h"
 

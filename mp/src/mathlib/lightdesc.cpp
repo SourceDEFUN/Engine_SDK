@@ -6,7 +6,7 @@
 
 #include <ssemath.h>
 #include <lightdesc.h>
-#include "mathlib.h"
+#include "mathlib/mathlib.h"
 
 void LightDesc_t::RecalculateDerivedValues(void)
 {

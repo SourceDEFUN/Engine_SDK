@@ -11,7 +11,7 @@
 #include <vgui/IVGui.h>
 #include "c_slideshow_display.h"
 #include "ienginevgui.h"
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 #include "vgui_controls/ImagePanel.h"
 #include <vgui/ISurface.h>
 #include "video/ivideoservices.h"

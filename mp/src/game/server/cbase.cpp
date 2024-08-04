@@ -80,7 +80,7 @@ OUTPUTS:
 #include "eventqueue.h"
 #include "entityinput.h"
 #include "entityoutput.h"
-#include "mempool.h"
+#include "tier1/mempool.h"
 #include "tier1/strtools.h"
 #include "datacache/imdlcache.h"
 #include "env_debughistory.h"

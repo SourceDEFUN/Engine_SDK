@@ -9,7 +9,7 @@
 // identifier was truncated to '255' characters in the debug information
 //#pragma warning(disable: 4786)
 
-#include "convar.h"
+#include "tier1/convar.h"
 #include "materialsystem/imaterialproxy.h"
 #include "materialsystem/imaterialvar.h"
 //#include "imaterialproxydict.h"

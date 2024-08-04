@@ -20,7 +20,7 @@
 #include "confirm_dialog.h"
 #include "replay/replayrenderer.h"
 
-#include "replay/performance.h"
+#include "vphysics/performance.h"
 #include "replay/replayvideo.h"
 #include "replay_gamestats_shared.h"
 

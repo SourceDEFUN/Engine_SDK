@@ -6,7 +6,7 @@
 
 #include "cbase.h"
 #include "IconPanel.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 
 DECLARE_BUILD_FACTORY( CIconPanel );
 

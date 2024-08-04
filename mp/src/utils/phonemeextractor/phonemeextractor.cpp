@@ -18,7 +18,7 @@
 // ATL Header Files
 #include <atlbase.h>
 // Face poser and util includes
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "phonemeextractor/PhonemeExtractor.h"
 #include "PhonemeConverter.h"
 #include "sentence.h"

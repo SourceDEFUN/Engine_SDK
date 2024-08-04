@@ -16,7 +16,7 @@
 #include <vgui/ILocalize.h>
 #include "saverestore_utlvector.h"
 #include "props_shared.h"
-#include "utlbuffer.h"
+#include "tier1/utlbuffer.h"
 #include "usermessages.h"
 #ifdef CLIENT_DLL
 #include "hud_closecaption.h"

@@ -11,8 +11,8 @@
 #pragma once
 #endif
 
-#include "shareddefs.h"
-#include "utlvector.h"
+#include "shaderapi/shareddefs.h"
+#include "tier1/utlvector.h"
 #include "client_thinklist.h"
 
 

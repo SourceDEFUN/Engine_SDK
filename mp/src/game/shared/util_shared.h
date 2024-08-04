@@ -12,7 +12,7 @@
 
 #include "mathlib/vector.h"
 #include "cmodel.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "networkvar.h"
 #include "engine/IEngineTrace.h"
 #include "engine/IStaticPropMgr.h"

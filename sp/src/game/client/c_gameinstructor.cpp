@@ -9,7 +9,7 @@
 #include "c_gameinstructor.h"
 #include "c_baselesson.h"
 #include "filesystem.h"
-#include "vprof.h"
+#include "tier0/vprof.h"
 #include "ixboxsystem.h"
 #include "tier0/icommandline.h"
 #include "iclientmode.h"

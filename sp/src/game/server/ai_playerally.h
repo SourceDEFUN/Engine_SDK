@@ -7,7 +7,7 @@
 #ifndef AI_PLAYERALLY_H
 #define AI_PLAYERALLY_H
 
-#include "utlmap.h"
+#include "tier1/utlmap.h"
 #include "simtimer.h"
 #include "AI_Criteria.h"
 #include "ai_baseactor.h"

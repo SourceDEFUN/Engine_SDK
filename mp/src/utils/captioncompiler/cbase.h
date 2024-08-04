@@ -10,10 +10,10 @@
 #pragma once
 #endif
 
-#include "basetypes.h"
+#include "tier0/basetypes.h"
 
 // This is just a dummy file to make this tool compile
 #include "ai_activity.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 
 #endif // CBASE_H

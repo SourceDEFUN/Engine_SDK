@@ -11,7 +11,7 @@
 #pragma once
 #endif
 
-#include "convar.h"
+#include "tier1/convar.h"
 
 extern ConVar mp_forcecamera;
 extern ConVar mp_allowspectators;

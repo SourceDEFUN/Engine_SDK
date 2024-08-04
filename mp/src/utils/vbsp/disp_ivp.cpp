@@ -11,7 +11,7 @@
 #include "disp_ivp.h"
 #include "vphysics_interface.h"
 #include "vphysics/virtualmesh.h"
-#include "utlrbtree.h"
+#include "tier1/utlrbtree.h"
 #include "tier1/utlbuffer.h"
 #include "materialpatch.h"
 

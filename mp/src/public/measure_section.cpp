@@ -12,9 +12,9 @@
 //=============================================================================//
 #include <string.h>
 #include <stdlib.h>
-#include "basetypes.h"
+#include "tier0/basetypes.h"
 #include "measure_section.h"
-#include "convar.h"
+#include "tier1/convar.h"
 
 
 // Static members

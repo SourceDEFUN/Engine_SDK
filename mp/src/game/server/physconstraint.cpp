@@ -13,7 +13,7 @@
 #include "physics_saverestore.h"
 #include "vcollide_parse.h"
 #include "positionwatcher.h"
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 #include "physics_prop_ragdoll.h"
 
 #define HINGE_NOTIFY HL2_EPISODIC

@@ -13,7 +13,7 @@
 
 
 #include "baseentity.h"
-#include "utllinkedlist.h"
+#include "tier1/utllinkedlist.h"
 
 
 // Shared stuff between door portals and window portals.

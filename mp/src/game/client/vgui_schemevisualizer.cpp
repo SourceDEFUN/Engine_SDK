@@ -9,8 +9,8 @@
 #include "vgui/IVGui.h"
 #include "vgui_controls/Label.h"
 #include "vgui_controls/ComboBox.h"
-#include "KeyValues.h"
-#include "fmtstr.h"
+#include "tier1/KeyValues.h"
+#include "tier1/fmtstr.h"
 
 //----------------------------------------------------------------------------------------
 

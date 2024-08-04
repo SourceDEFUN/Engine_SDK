@@ -29,7 +29,7 @@
 #include "c_vguiscreen.h"
 #include "c_team.h"
 #include "c_rumble.h"
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 #include "achievementmgr.h"
 #include "c_playerresource.h"
 #include "cam_thirdperson.h"

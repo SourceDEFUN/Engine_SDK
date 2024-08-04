@@ -8,20 +8,20 @@
 
 #include "vbsp.h"
 #include "bsplib.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "bspfile.h"
 #include "gamebspfile.h"
 #include "VPhysics_Interface.h"
 #include "Studio.h"
-#include "byteswap.h"
+#include "tier1/byteswap.h"
 #include "UtlBuffer.h"
 #include "CollisionUtils.h"
 #include <float.h>
 #include "CModel.h"
 #include "PhysDll.h"
-#include "utlsymbol.h"
+#include "tier1/utlsymbol.h"
 #include "tier1/strtools.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 
 static void SetCurrentModel( studiohdr_t *pStudioHdr );
 static void FreeCurrentModelVertexes();

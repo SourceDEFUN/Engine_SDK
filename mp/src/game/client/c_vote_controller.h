@@ -11,7 +11,7 @@
 #pragma once
 #endif
 
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 #include "GameEventListener.h"
 
 class C_VoteController : public C_BaseEntity, public CGameEventListener

@@ -10,7 +10,7 @@
 #include "tier1/utlstring.h"
 #include "filesystem.h"
 #include "tier1/utlbuffer.h"
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 
 #ifndef SWDS
 #include "iregistry.h"

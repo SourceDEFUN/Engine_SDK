@@ -7,7 +7,7 @@
 #ifndef AI_RESPONSESYSTEM_H
 #define AI_RESPONSESYSTEM_H
 
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 
 #ifdef _WIN32
 #pragma once

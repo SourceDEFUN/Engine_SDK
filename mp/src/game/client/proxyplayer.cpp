@@ -323,7 +323,7 @@ void CEntityRandomProxy::OnBind( void *pC_BaseEntity )
 
 EXPOSE_INTERFACE( CEntityRandomProxy, IMaterialProxy, "EntityRandom" IMATERIAL_PROXY_INTERFACE_VERSION );
 
-#include "utlrbtree.h"
+#include "tier1/utlrbtree.h"
 
 //-----------------------------------------------------------------------------
 // Returns the player speed

@@ -12,7 +12,7 @@
 #endif
 
 #include "iclientnetworkable.h"
-#include "utllinkedlist.h"
+#include "tier1/utllinkedlist.h"
 #include "cdll_int.h"
 #include "eiface.h"
 

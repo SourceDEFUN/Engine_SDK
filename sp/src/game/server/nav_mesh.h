@@ -19,7 +19,7 @@
 #ifndef _NAV_MESH_H_
 #define _NAV_MESH_H_
 
-#include "utlbuffer.h"
+#include "tier1/utlbuffer.h"
 #include "filesystem.h"
 #include "GameEventListener.h"
 

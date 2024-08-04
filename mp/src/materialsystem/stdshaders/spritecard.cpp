@@ -7,7 +7,7 @@
 //===========================================================================//
 
 #include "BaseVSShader.h"
-#include "convar.h"
+#include "tier1/convar.h"
 
 // STDSHADER_DX9_DLL_EXPORT
 #include "spritecard_ps20.inc"

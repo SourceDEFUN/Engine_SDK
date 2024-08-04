@@ -1,7 +1,7 @@
 //===== Copyright © 1996-2008, Valve Corporation, All rights reserved. ======//
 
 #include "BaseVSShader.h"
-#include "convar.h"
+#include "tier1/convar.h"
 
 #include "SDK_splinerope_ps20.inc"
 #include "SDK_splinerope_ps20b.inc"

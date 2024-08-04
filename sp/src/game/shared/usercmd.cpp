@@ -7,8 +7,8 @@
 
 #include "cbase.h"
 #include "usercmd.h"
-#include "bitbuf.h"
-#include "checksum_md5.h"
+#include "tier1/bitbuf.h"
+#include "tier1/checksum_md5.h"
 
 #ifdef MAPBASE_VSCRIPT
 #include "mapbase/vscript_singletons.h"

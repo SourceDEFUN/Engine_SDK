@@ -5,12 +5,12 @@
 //=============================================================================
 #include <windows.h>
 #include "basehandle.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "usercmd.h"
 #include "cdll_client_int.h"
 #include "cdll_util.h"
 #include "input.h"
-#include "convar.h"
+#include "tier1/convar.h"
 #include "tier0/icommandline.h"
 #include "forcefeedback.h"
 #include "filesystem.h"

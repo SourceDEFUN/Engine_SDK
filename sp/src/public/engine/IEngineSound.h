@@ -13,11 +13,11 @@
 #endif
 
 
-#include "basetypes.h"
-#include "interface.h"
+#include "tier0/basetypes.h"
+#include "tier1/interface.h"
 #include "soundflags.h"
 #include "irecipientfilter.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "engine/SndInfo.h"
 
 //-----------------------------------------------------------------------------

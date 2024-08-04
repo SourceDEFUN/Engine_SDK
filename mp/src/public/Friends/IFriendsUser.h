@@ -11,7 +11,7 @@
 #pragma once
 #endif
 
-#include "interface.h"
+#include "tier1/interface.h"
 
 //-----------------------------------------------------------------------------
 // Purpose: Interface to accessing information about Friends Users

@@ -10,13 +10,13 @@
 #include "tier0/icommandline.h"
 #include "igamesystem.h"
 #include "filesystem.h"
-#include "utlbuffer.h"
+#include "tier1/utlbuffer.h"
 #ifdef CLIENT_DLL
 #else
 #include "ammodef.h"
 #include "ai_basenpc.h"
 #include "ai_squad.h"
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 #include "GameEventListener.h"
 #include "saverestore_utlvector.h"
 #endif

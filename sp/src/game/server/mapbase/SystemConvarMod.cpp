@@ -8,7 +8,7 @@
 #include "cbase.h"
 #include "saverestore_utlvector.h"
 #include "SystemConvarMod.h"
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 
 ConVar g_debug_convarmod( "g_debug_convarmod", "0" );
 

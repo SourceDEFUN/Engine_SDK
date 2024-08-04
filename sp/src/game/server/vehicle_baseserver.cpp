@@ -13,7 +13,7 @@
 #include "soundenvelope.h"
 #include "SoundEmitterSystem/isoundemittersystembase.h"
 #include "saverestore_utlvector.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 #include "studio.h"
 #include "bone_setup.h"
 #include "collisionutils.h"

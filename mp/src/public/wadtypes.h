@@ -9,7 +9,7 @@
 #define WADTYPES_H
 #pragma once
 
-#include "basetypes.h"
+#include "tier0/basetypes.h"
 
 // ---------------------------------------------------------
 //

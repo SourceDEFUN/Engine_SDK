@@ -16,7 +16,7 @@
 
 // cmdlib.h
 
-#include "basetypes.h"
+#include "tier0/basetypes.h"
 
 // This can go away when everything is in bin.
 #if defined( CMDLIB_NODBGLIB )

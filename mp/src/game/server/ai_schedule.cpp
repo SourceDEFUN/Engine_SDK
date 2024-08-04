@@ -8,7 +8,7 @@
 //=============================================================================//
 
 #include "cbase.h"
-#include "convar.h"
+#include "tier1/convar.h"
 #include "ai_basenpc.h"
 #include "tier1/strtools.h"
 #include "ai_activity.h"

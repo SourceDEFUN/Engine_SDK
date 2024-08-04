@@ -8,7 +8,7 @@
 
 #include "BaseVSShader.h"
 
-#include "convar.h"
+#include "tier1/convar.h"
 
 #include "SDK_lightmappedgeneric_vs20.inc"
 #include "SDK_worldtwotextureblend_ps20.inc"

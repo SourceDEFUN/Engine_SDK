@@ -18,7 +18,7 @@
 #include "networkvar.h"
 #include "collisionproperty.h"
 #include "ServerNetworkProperty.h"
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 #include "engine/ivmodelinfo.h"
 #ifdef NEW_RESPONSE_SYSTEM
 #include "AI_Criteria.h"

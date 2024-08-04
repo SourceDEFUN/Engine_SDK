@@ -7,9 +7,9 @@
 //=============================================================================//
 #include "vbsp.h"
 #include "UtlBuffer.h"
-#include "utlsymbol.h"
-#include "utlrbtree.h"
-#include "KeyValues.h"
+#include "tier1/utlsymbol.h"
+#include "tier1/utlrbtree.h"
+#include "tier1/KeyValues.h"
 #include "bsplib.h"
 #include "materialpatch.h"
 #include "tier1/strtools.h"

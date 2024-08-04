@@ -12,9 +12,9 @@
 #endif
 
 #include "mathlib/vector.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "imovehelper.h"
-#include "checksum_crc.h"
+#include "tier1/checksum_crc.h"
 
 
 class bf_read;

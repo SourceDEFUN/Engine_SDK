@@ -7,7 +7,7 @@
 #if defined( REPLAY_ENABLED )
 
 #include "replayperformancesavedlg.h"
-#include "replay/performance.h"
+#include "vphysics/performance.h"
 #include "replay/ireplaymanager.h"
 #include "replay/ireplayperformancecontroller.h"
 #include "replay/replay.h"

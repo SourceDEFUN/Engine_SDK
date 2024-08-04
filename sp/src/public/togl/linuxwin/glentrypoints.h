@@ -14,7 +14,7 @@
 #include "tier0/platform.h"
 #include "tier0/dynfunction.h"
 #include "tier0/vprof_telemetry.h"
-#include "interface.h"
+#include "tier1/interface.h"
 
 #include "togl/rendermechanism.h"
 

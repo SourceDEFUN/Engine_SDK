@@ -17,7 +17,7 @@
 #include "IEffects.h"
 #ifdef MAPBASE
 #include "saverestore_utlvector.h"
-#include "interval.h"
+#include "tier1/interval.h"
 #endif
 
 // memdbgon must be the last include file in a .cpp file!!!

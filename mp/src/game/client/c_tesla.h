@@ -13,7 +13,7 @@
 
 #include "c_baseentity.h"
 #include "fx.h"
-#include "utllinkedlist.h"
+#include "tier1/utllinkedlist.h"
 
 
 class C_Tesla : public C_BaseEntity

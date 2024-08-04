@@ -6,7 +6,7 @@
 #include "vgui_controls/Frame.h"
 #include "vgui_controls/Label.h"
 #include "vgui_video.h"
-#include "convar.h"
+#include "tier1/convar.h"
 #include "usercmd.h"
 #include "tier1/utlstring.h"
 #include "GameEventListener.h"

@@ -12,7 +12,7 @@
 #pragma once
 #endif
 
-#include "utlsymbol.h"
+#include "tier1/utlsymbol.h"
 
 #define RR_CONCEPTS_ARE_STRINGS 0
 

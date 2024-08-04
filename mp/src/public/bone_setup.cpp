@@ -17,8 +17,8 @@
 #include "bone_accessor.h"
 #include "mathlib/ssequaternion.h"
 #include "bitvec.h"
-#include "datamanager.h"
-#include "convar.h"
+#include "tier1/datamanager.h"
+#include "tier1/convar.h"
 #include "tier0/tslist.h"
 #include "vphysics_interface.h"
 #ifdef CLIENT_DLL

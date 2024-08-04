@@ -10,12 +10,12 @@
 #include "filesystem.h"
 #include "tier2/riff.h"
 #include "tier1/utlbuffer.h"
-#include "snd_audio_source.h"
+#include "soundsystem/snd_audio_source.h"
 #include "snd_wave_source.h"
 #include "AudioWaveOutput.h"
 #include "ifaceposersound.h"
 #include "vstdlib/random.h"
-#include "checksum_crc.h"
+#include "tier1/checksum_crc.h"
 
 #define WAVEOUTPUT_BITSPERCHANNEL		16
 #define WAVEOUTPUT_FREQUENCY			44100

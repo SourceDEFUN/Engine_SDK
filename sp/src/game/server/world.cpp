@@ -24,7 +24,7 @@
 #include "ai_utils.h"
 #include "basetempentity.h"
 #include "world.h"
-#include "mempool.h"
+#include "tier1/mempool.h"
 #include "igamesystem.h"
 #include "engine/IEngineSound.h"
 #include "globals.h"

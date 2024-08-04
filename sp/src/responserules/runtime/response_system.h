@@ -12,7 +12,7 @@
 #pragma once
 #endif
 
-#include "utldict.h"
+#include "tier1/utldict.h"
 
 namespace ResponseRules
 {

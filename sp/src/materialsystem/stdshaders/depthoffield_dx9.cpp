@@ -7,7 +7,7 @@
 #include "BaseVSShader.h"
 #include "depth_of_field_vs20.inc"
 #include "depth_of_field_ps20b.inc"
-#include "convar.h"
+#include "tier1/convar.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

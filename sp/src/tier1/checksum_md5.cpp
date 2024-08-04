@@ -4,9 +4,9 @@
 //
 //===========================================================================//
 
-#include "basetypes.h"
-#include "commonmacros.h"
-#include "checksum_md5.h"
+#include "tier0/basetypes.h"
+#include "tier0/commonmacros.h"
+#include "tier1/checksum_md5.h"
 #include <string.h>
 #include <stdio.h>
 #include "tier1/strtools.h"

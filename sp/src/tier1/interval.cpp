@@ -6,7 +6,7 @@
 //=============================================================================//
 
 #include "tier0/platform.h"
-#include "interval.h"
+#include "tier1/interval.h"
 #include "tier1/strtools.h"
 #include "vstdlib/random.h"
 

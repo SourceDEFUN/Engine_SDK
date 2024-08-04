@@ -13,7 +13,7 @@
 
 #include "disp_vertindex.h"
 #include "bspfile.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 
 class CPowerInfo;
 class CCoreDispInfo;

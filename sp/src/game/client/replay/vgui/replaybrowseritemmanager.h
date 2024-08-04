@@ -8,7 +8,7 @@
 #pragma once
 #endif
 
-#include "utllinkedlist.h"
+#include "tier1/utllinkedlist.h"
 #include <vgui_controls/Panel.h>
 
 //-----------------------------------------------------------------------------

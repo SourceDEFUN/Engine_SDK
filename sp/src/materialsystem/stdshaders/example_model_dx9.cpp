@@ -5,7 +5,7 @@
 //==================================================================================================
 
 #include "BaseVSShader.h"
-#include "convar.h"
+#include "tier1/convar.h"
 #include "example_model_dx9_helper.h"
 
 #ifdef GAME_SHADER_DLL

@@ -6,7 +6,7 @@
 //=============================================================================//
 
 #include <stdio.h>
-#include "basetypes.h"
+#include "tier0/basetypes.h"
 #include "pacifier.h"
 #include "tier0/dbg.h"
 

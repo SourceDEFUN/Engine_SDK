@@ -6,12 +6,12 @@
 
 #include "cbase.h"
 #include "achievementmgr.h"
-#include "icommandline.h"
+#include "tier0/icommandline.h"
 #ifdef CLIENT_DLL
 #include "tier3/tier3.h"
 #include "vgui/ILocalize.h"
 #include "achievement_notification_panel.h"
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 #include "gamestats.h"
 #endif // CLIENT_DLL
 

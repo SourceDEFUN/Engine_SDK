@@ -21,7 +21,7 @@
 
 #include <windows.h>
 #include <stdio.h>
-#include "interface.h"
+#include "tier1/interface.h"
 
 // TODO: reference additional headers your program requires here
 

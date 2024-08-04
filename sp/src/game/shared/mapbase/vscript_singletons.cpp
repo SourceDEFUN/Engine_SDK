@@ -22,7 +22,7 @@
 #include "filesystem.h"
 #include "igameevents.h"
 #include "engine/ivdebugoverlay.h"
-#include "icommandline.h"
+#include "tier0/icommandline.h"
 
 #ifdef CLIENT_DLL
 #include "IEffects.h"

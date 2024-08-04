@@ -22,11 +22,11 @@
 #include "ispatialpartition.h"
 #include "igamesystem.h"
 #include "saverestoretypes.h"
-#include "checksum_crc.h"
+#include "tier1/checksum_crc.h"
 #include "hierarchy.h"
 #include "iservervehicle.h"
 #include "te_effect_dispatch.h"
-#include "utldict.h"
+#include "tier1/utldict.h"
 #include "collisionutils.h"
 #include "movevars_shared.h"
 #include "inetchannelinfo.h"
@@ -37,7 +37,7 @@
 #include "util.h"
 #include "cdll_int.h"
 #ifdef MAPBASE
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 #endif
 
 #ifdef PORTAL
@@ -1780,7 +1780,7 @@ bool UTIL_IsValidEntity( CBaseEntity *pEnt )
 // UNDONE: Do we need this to avoid doing too much of this?  Measure startup times and see
 #if defined( PRECACHE_OTHER_ONCE )
 
-#include "utlsymbol.h"
+#include "tier1/utlsymbol.h"
 class CPrecacheOtherList : public CAutoGameSystem
 {
 public:

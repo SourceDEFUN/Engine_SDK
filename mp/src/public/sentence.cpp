@@ -9,15 +9,15 @@
 #if !defined(_STATIC_LINKED) || defined(_SHARED_LIB)
 
 #include <assert.h>
-#include "commonmacros.h"
-#include "basetypes.h"
+#include "tier0/commonmacros.h"
+#include "tier0/basetypes.h"
 #include "sentence.h"
-#include "utlbuffer.h"
+#include "tier1/utlbuffer.h"
 #include <stdlib.h>
 #include "mathlib/vector.h"
 #include "mathlib/mathlib.h"
 #include <ctype.h>
-#include "checksum_crc.h"
+#include "tier1/checksum_crc.h"
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"
 

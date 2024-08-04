@@ -6,12 +6,12 @@
 
 #include "cbase.h"
 #include "vscript_server.h"
-#include "icommandline.h"
+#include "tier0/icommandline.h"
 #include "tier1/utlbuffer.h"
 #include "tier1/fmtstr.h"
 #include "filesystem.h"
 #include "eventqueue.h"
-#include "characterset.h"
+#include "tier1/characterset.h"
 #include "sceneentity.h"		// for exposing scene precache function
 #include "gamerules.h"
 #include "vscript_server.nut"

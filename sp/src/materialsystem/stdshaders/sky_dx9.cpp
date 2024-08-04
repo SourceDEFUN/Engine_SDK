@@ -10,7 +10,7 @@
 #include "sky_ps20.inc"
 #include "sky_ps20b.inc"
 
-#include "convar.h"
+#include "tier1/convar.h"
 
 BEGIN_VS_SHADER( Sky_DX9, "Help for Sky_DX9 shader" )
 

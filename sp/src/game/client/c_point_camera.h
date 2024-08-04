@@ -12,7 +12,7 @@
 #endif
 
 #include "c_baseentity.h"
-#include "basetypes.h"
+#include "tier0/basetypes.h"
 
 class C_PointCamera : public C_BaseEntity
 {

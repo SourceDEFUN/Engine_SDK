@@ -17,7 +17,7 @@
 #include "tools_minidump.h"
 #include "materialsub.h"
 #include "loadcmdline.h"
-#include "byteswap.h"
+#include "tier1/byteswap.h"
 #include "worldvertextransitionfixup.h"
 
 extern float		g_maxLightmapDimension;

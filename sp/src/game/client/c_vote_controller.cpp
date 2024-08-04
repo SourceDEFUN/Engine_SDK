@@ -6,7 +6,7 @@
 //=============================================================================//
 #include "cbase.h"
 #include "c_vote_controller.h"
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 #include "hud.h"
 #include "cdll_client_int.h"
 #include "igameevents.h"

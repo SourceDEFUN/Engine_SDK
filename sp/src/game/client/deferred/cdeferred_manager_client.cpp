@@ -5,7 +5,7 @@
 #include "materialsystem/imaterialvar.h"
 #include "filesystem.h"
 #include "deferred/deferred_shared_common.h"
-#include "utlbuffer.h"
+#include "tier1/utlbuffer.h"
 #include "deferred_light_lump.h"
 
 #include "vgui_controls/MessageBox.h"

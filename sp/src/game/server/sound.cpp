@@ -25,7 +25,7 @@
 #include "ndebugoverlay.h"
 #include "soundscape.h"
 #include "igamesystem.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 #include "filesystem.h"
 
 #ifdef PORTAL

@@ -1285,7 +1285,7 @@ wchar_t * __cdecl _wcsdup ( const wchar_t * string )
 //-----------------------------------------------------------------------------
 #if defined( _X360 )
 #if defined( _DEBUG ) || defined( USE_MEM_DEBUG )
-#include "utlmap.h"
+#include "tier1/utlmap.h"
 
 MEMALLOC_DEFINE_EXTERNAL_TRACKING( XMem );
 

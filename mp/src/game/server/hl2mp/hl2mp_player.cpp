@@ -14,7 +14,7 @@
 #include "predicted_viewmodel.h"
 #include "in_buttons.h"
 #include "hl2mp_gamerules.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 #include "team.h"
 #include "weapon_hl2mpbase.h"
 #include "grenade_satchel.h"

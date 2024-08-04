@@ -10,7 +10,7 @@
 #pragma once
 #endif
 
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 
 #define TEAM_ARRAY( index, team )		(index + (team * MAX_CONTROL_POINTS))
 

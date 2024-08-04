@@ -6,9 +6,9 @@
 #include "cbase.h"
 #include "decals.h"
 #include "igamesystem.h"
-#include "utlsymbol.h"
-#include "utldict.h"
-#include "KeyValues.h"
+#include "tier1/utlsymbol.h"
+#include "tier1/utldict.h"
+#include "tier1/KeyValues.h"
 #include "filesystem.h"
 
 #ifdef CLIENT_DLL

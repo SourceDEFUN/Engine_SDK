@@ -13,7 +13,7 @@
 #endif
 
 
-#include "basetypes.h"
+#include "tier0/basetypes.h"
 
 #define IENGINEVOICE_INTERFACE_VERSION	"IEngineVoice001"
 

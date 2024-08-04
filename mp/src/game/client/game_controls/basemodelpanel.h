@@ -15,7 +15,7 @@
 #include <vgui_controls/ImagePanel.h>
 #include <vgui_controls/EditablePanel.h>
 #include "GameEventListener.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 
 class C_SceneEntity;
 

@@ -15,7 +15,7 @@
 #define PHONEME_EDITOR 1
 #endif
 
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 
 class CUtlBuffer;
 

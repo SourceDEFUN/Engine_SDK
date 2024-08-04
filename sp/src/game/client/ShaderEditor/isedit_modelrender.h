@@ -6,9 +6,9 @@
 #endif // _WIN32
 
 #ifdef SHADER_EDITOR_DLL
-#include "../public/tier1/interface.h"
+#include "tier1/interface.h"
 #else
-#include "interface.h"
+#include "tier1/interface.h"
 #include "shadereditorsystem.h"
 #endif // NOT SHADER_EDITOR_DLL
 

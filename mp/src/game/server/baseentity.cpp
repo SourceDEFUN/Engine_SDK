@@ -51,7 +51,7 @@
 #include "scriptevent.h"
 #include "SoundEmitterSystem/isoundemittersystembase.h"
 #include "UtlCachedFileData.h"
-#include "utlbuffer.h"
+#include "tier1/utlbuffer.h"
 #include "positionwatcher.h"
 #include "movetype_push.h"
 #include "tier0/icommandline.h"
@@ -61,7 +61,7 @@
 #include "ModelSoundsCache.h"
 #include "env_debughistory.h"
 #include "tier1/utlstring.h"
-#include "utlhashtable.h"
+#include "tier1/utlhashtable.h"
 
 #if defined( TF_DLL )
 #include "tf_gamerules.h"

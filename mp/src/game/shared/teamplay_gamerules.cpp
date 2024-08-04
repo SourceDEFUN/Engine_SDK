@@ -5,7 +5,7 @@
 // $NoKeywords: $
 //=============================================================================//
 #include "cbase.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 #include "gamerules.h"
 #include "teamplay_gamerules.h"
 

@@ -11,7 +11,7 @@
 #pragma once
 
 #ifdef OSX
-#include "glmgr/glmgrbasics.h"
+#include "togl/linuxwin/glmgrbasics.h"
 #endif
 
 //===============================================================================

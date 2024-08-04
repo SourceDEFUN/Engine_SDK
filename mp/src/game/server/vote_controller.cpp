@@ -6,11 +6,11 @@
 //=============================================================================//
 #include "cbase.h"
 #include "vote_controller.h"
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 #include "eiface.h"
 #include "team.h"
 #include "gameinterface.h"
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 
 #ifdef TF_DLL
 #include "tf/tf_gamerules.h"

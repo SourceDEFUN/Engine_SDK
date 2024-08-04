@@ -12,7 +12,7 @@
 #endif
 
 #include "irecipientfilter.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "c_baseentity.h"
 #include "soundflags.h"
 #include "bitvec.h"

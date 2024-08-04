@@ -14,12 +14,12 @@
 #endif
 
 #include <stdio.h>
-#include "interface.h"
+#include "tier1/interface.h"
 #include "filesystem.h"
 #include "engine/iserverplugin.h"
 #include "eiface.h"
 #include "igameevents.h"
-#include "convar.h"
+#include "tier1/convar.h"
 #include "Color.h"
 #include "vstdlib/random.h"
 #include "engine/IEngineTrace.h"

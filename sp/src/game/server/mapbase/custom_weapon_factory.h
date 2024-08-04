@@ -9,8 +9,8 @@
 #ifndef CUSTOM_WEAPON_FACTORY_H
 #define CUSTOM_WEAPON_FACTORY_H
 #pragma once
-#include "utldict.h"
-#include "utlsymbol.h"
+#include "tier1/utldict.h"
+#include "tier1/utlsymbol.h"
 
 DECLARE_PRIVATE_SYMBOLTYPE(CustomWeaponSymbol);
 

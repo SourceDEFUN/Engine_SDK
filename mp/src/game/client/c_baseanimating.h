@@ -14,7 +14,7 @@
 
 #include "c_baseentity.h"
 #include "studio.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "ragdoll.h"
 #include "mouthinfo.h"
 // Shared activities

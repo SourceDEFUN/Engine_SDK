@@ -6,11 +6,11 @@
 
 
 #include "cbase.h"
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 #include "filesystem.h"
 #include "filesystem/IQueuedLoader.h"
-#include "utlbuffer.h"
-#include "utlrbtree.h"
+#include "tier1/utlbuffer.h"
+#include "tier1/utlrbtree.h"
 #include "editor_sendcommand.h"
 
 #include "ai_networkmanager.h"

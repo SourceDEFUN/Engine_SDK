@@ -15,8 +15,8 @@
 #endif
 
 #include "tier0/dbg.h"
-#include "memstack.h"
-#include "utlmap.h"
+#include "tier1/memstack.h"
+#include "tier1/utlmap.h"
 #include "tier0/memdbgon.h"
 
 #ifdef _WIN32

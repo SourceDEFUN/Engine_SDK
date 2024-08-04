@@ -98,10 +98,10 @@
 #include <type_traits>
 #include <utility>
 
-#include "utlmap.h"
-#include "utlvector.h"
+#include "tier1/utlmap.h"
+#include "tier1/utlvector.h"
 
-#include "platform.h"
+#include "tier0/platform.h"
 #include "datamap.h"
 #include "appframework/IAppSystem.h"
 #include "tier1/functors.h"

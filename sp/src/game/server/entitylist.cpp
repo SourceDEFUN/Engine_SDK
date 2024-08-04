@@ -7,10 +7,10 @@
 
 #include "cbase.h"
 #include "entitylist.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "igamesystem.h"
 #include "collisionutils.h"
-#include "UtlSortVector.h"
+#include "tier1/UtlSortVector.h"
 #include "tier0/vprof.h"
 #include "mapentities.h"
 #include "client.h"
@@ -22,7 +22,7 @@
 #include "npc_playercompanion.h"
 #ifdef MAPBASE
 #include "hl2_player.h"
-#include "mapbase_matchers_base.h"
+#include "tier1/mapbase_matchers_base.h"
 #endif
 #endif // HL2_DLL
 

@@ -13,7 +13,7 @@
 #include "replay/replay.h"
 #include "replay/ireplayperformanceeditor.h"
 #include "replay/ireplayperformancecontroller.h"
-#include "replay/performance.h"
+#include "vphysics/performance.h"
 #include "ienginevgui.h"
 #include "iclientmode.h"
 #include "vgui_controls/ImagePanel.h"

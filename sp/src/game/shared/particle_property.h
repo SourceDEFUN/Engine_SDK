@@ -10,7 +10,7 @@
 #pragma once
 #endif
 
-#include "smartptr.h"
+#include "tier1/smartptr.h"
 #include "globalvars_base.h"
 #include "particles_new.h"
 #include "particle_parse.h"

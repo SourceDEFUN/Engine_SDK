@@ -12,7 +12,7 @@
 #pragma once
 #endif
 
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "ai_movesolver.h"
 #include "ehandle.h"
 #include "mathlib/vector.h"

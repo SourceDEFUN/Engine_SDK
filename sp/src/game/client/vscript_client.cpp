@@ -6,11 +6,11 @@
 
 #include "cbase.h"
 #include "vscript_client.h"
-#include "icommandline.h"
+#include "tier0/icommandline.h"
 #include "tier1/utlbuffer.h"
 #include "tier1/fmtstr.h"
 #include "filesystem.h"
-#include "characterset.h"
+#include "tier1/characterset.h"
 #include "isaverestore.h"
 #include "gamerules.h"
 #include "vscript_client.nut"

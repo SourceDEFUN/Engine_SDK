@@ -3,7 +3,7 @@
 #include "BaseVSShader.h"
 #include "mathlib/vmatrix.h"
 #include "volume_clouds_helper.h"
-#include "convar.h"
+#include "tier1/convar.h"
 
 // Auto generated inc files
 #include "volume_clouds_vs20.inc"

@@ -11,7 +11,7 @@
 #endif
 
 class Vector;
-#include "utlsymbol.h"
+#include "tier1/utlsymbol.h"
 
 //-----------------------------------------------------------------------------
 // Purpose:  Client side only 

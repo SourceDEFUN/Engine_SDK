@@ -8,7 +8,7 @@
 #include "cbase.h"
 #include "soundscape_system.h"
 #include "soundscape.h"
-#include "KeyValues.h"
+#include "tier1/KeyValues.h"
 #include "filesystem.h"
 #include "game.h"
 

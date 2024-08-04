@@ -1,8 +1,8 @@
 
 #include "deferred_light_lump.h"
 #ifndef CLIENT_DLL
-#include "utlvector.h"
-#include "utlbuffer.h"
+#include "tier1/utlvector.h"
+#include "tier1/utlbuffer.h"
 #include "bsplib.h"
 #endif
 

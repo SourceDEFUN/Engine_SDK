@@ -13,7 +13,7 @@
 #include "replay/basereplayserializeable.h"
 #include "mathlib/vector.h"
 #include "qlimits.h"
-#include "strtools.h"
+#include "tier1/strtools.h"
 
 //----------------------------------------------------------------------------------------
 

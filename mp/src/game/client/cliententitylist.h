@@ -15,13 +15,13 @@
 #include "tier0/dbg.h"
 #include "icliententitylist.h"
 #include "iclientunknown.h"
-#include "utllinkedlist.h"
-#include "utlvector.h"
+#include "tier1/utllinkedlist.h"
+#include "tier1/utlvector.h"
 #include "icliententityinternal.h"
 #include "ispatialpartition.h"
 #include "cdll_util.h"
 #include "entitylist_base.h"
-#include "utlmap.h"
+#include "tier1/utlmap.h"
 
 class C_Beam;
 class C_BaseViewModel;

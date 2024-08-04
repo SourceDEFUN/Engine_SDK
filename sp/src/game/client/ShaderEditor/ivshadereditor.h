@@ -21,10 +21,10 @@
 #ifndef PROCSHADER_DLL
 
 #ifdef SHADER_EDITOR_DLL
-#include "../public/tier1/interface.h"
+#include "tier1/interface.h"
 #include "view_shared.h"
 #else
-#include "interface.h"
+#include "tier1/interface.h"
 #include "shadereditorsystem.h"
 #endif // NOT SHADER_EDITOR_DLL
 

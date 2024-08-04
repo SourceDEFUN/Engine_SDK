@@ -15,7 +15,7 @@
 #endif
 
 #include "cbase.h"
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 #include "view.h"
 #include "mumble.h"
 

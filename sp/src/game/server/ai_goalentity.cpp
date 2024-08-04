@@ -6,7 +6,7 @@
 
 #include "cbase.h"
 
-#include "utlrbtree.h"
+#include "tier1/utlrbtree.h"
 #include "saverestore_utlvector.h"
 #include "ai_goalentity.h"
 

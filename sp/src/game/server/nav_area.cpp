@@ -20,7 +20,7 @@
 #include "nav_node.h"
 #include "nav_pathfind.h"
 #include "nav_colors.h"
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 #include "props_shared.h"
 #include "func_breakablesurf.h"
 

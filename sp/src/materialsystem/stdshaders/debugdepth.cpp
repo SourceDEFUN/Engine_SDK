@@ -7,7 +7,7 @@
 //===========================================================================//
 
 #include "shaderlib/cshader.h"
-#include "convar.h"
+#include "tier1/convar.h"
 #include "debugdrawdepth_vs20.inc"
 #include "debugdrawdepth_ps20.inc"
 #include "debugdrawdepth_ps20b.inc"

@@ -11,7 +11,7 @@
 #endif
 
 
-#include "utlpriorityqueue.h"
+#include "tier1/utlpriorityqueue.h"
 
 
 //

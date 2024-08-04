@@ -8,7 +8,7 @@
 #define AI_GOALENTITY_H
 
 #include "ai_basenpc.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 
 #if defined( _WIN32 )
 #pragma once

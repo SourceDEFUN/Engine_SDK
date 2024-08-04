@@ -7,11 +7,11 @@
 
 #include "rrbase.h"
 #include "vstdlib/random.h"
-#include "utlbuffer.h"
+#include "tier1/utlbuffer.h"
 #include "tier1/interval.h"
-#include "convar.h"
-#include "fmtstr.h"
-#include "generichash.h"
+#include "tier1/convar.h"
+#include "tier1/fmtstr.h"
+#include "tier1/generichash.h"
 #include "tier1/mapbase_con_groups.h"
 #ifdef MAPBASE
 #include "tier1/mapbase_matchers_base.h"

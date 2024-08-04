@@ -17,7 +17,7 @@
 #include "filesystem.h"
 #include "view_shared.h"
 #include "iviewrender.h"
-#include "fasttimer.h"
+#include "tier0/fasttimer.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

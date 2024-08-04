@@ -12,7 +12,7 @@
 #pragma once
 #endif
 
-#include "basetypes.h"
+#include "tier0/basetypes.h"
 #include "mathlib/vector.h"
 #include "playernet_vars.h"
 

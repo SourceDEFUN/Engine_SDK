@@ -8,7 +8,7 @@
 #include "cbase.h"
 
 #include "matchers.h"
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 
 #ifdef CLIENT_DLL
 // FIXME: There is no clientside equivalent to the RS code

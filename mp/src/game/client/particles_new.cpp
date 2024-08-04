@@ -14,7 +14,7 @@
 #include "toolframework_client.h"
 #include "tier1/KeyValues.h"
 #include "model_types.h"
-#include "vprof.h"
+#include "tier0/vprof.h"
 #include "input.h"
 
 extern ConVar cl_particleeffect_aabb_buffer;

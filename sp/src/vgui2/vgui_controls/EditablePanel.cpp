@@ -37,7 +37,7 @@
 #include <vgui_controls/BitmapImagePanel.h>
 
 #include "filesystem.h"
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include <tier0/memdbgon.h>

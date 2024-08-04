@@ -5,7 +5,7 @@
 // $NoKeywords: $
 //=============================================================================//
 #include "cbase.h"
-#include "basetypes.h"
+#include "tier0/basetypes.h"
 #include "hud.h"
 #include <string.h>
 #include <stdio.h>
@@ -20,7 +20,7 @@
 #include "c_baseplayer.h"
 #include "materialsystem/imesh.h"
 #include "view.h"
-#include "convar.h"
+#include "tier1/convar.h"
 #include <vgui_controls/Controls.h>
 #include <vgui/IScheme.h>
 #include <vgui/ISurface.h>

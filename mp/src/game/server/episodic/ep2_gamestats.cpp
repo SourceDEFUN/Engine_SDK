@@ -11,7 +11,7 @@
 #include "vehicle_base.h"
 #include "tier1/utlstring.h"
 #include "filesystem.h"
-#include "icommandline.h"
+#include "tier0/icommandline.h"
 
 static CEP2GameStats s_CEP2GameStats_Singleton;
 CBaseGameStats *g_pEP2GameStats = &s_CEP2GameStats_Singleton;

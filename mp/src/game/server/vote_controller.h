@@ -12,7 +12,7 @@
 #pragma once
 #endif
 
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 
 #define MAX_COMMAND_LENGTH 64
 #define MAX_CREATE_ERROR_STRING 96

@@ -10,9 +10,9 @@
 #pragma once
 #endif
 
-#include "utlvector.h"
-#include "utldict.h"
-#include "convar.h"
+#include "tier1/utlvector.h"
+#include "tier1/utldict.h"
+#include "tier1/convar.h"
 #include <vgui/VGUI.h>
 #include <Color.h>
 #include <bitbuf.h>

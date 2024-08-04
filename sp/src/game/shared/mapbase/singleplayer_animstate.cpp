@@ -20,7 +20,7 @@
 #include "animation.h"
 #include "studio.h"
 #include "apparent_velocity_helper.h"
-#include "utldict.h"
+#include "tier1/utldict.h"
 #include "filesystem.h"
 #include "in_buttons.h"
 #include "datacache/imdlcache.h"

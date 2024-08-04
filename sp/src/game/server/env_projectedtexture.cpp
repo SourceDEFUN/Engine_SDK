@@ -5,7 +5,7 @@
 //=============================================================================
 
 #include "cbase.h"
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 #ifdef ASW_PROJECTED_TEXTURES
 #include "env_projectedtexture.h"
 #endif

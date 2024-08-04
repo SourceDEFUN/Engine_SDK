@@ -21,7 +21,7 @@
 
 #include "vgui_controls/Frame.h"
 #include "filesystem.h"
-#include "utlsymbol.h"
+#include "tier1/utlsymbol.h"
 
 // Forward declarations
 namespace vgui

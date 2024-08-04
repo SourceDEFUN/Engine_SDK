@@ -7,7 +7,7 @@
 #include "cbase.h"
 
 #include "ai_basenpc.h"
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 #include "activitylist.h"
 #include "animation.h"
 #include "basecombatweapon.h"
@@ -67,7 +67,7 @@
 #include "te_effect_dispatch.h"
 #include "globals.h"
 #include "saverestore_bitstring.h"
-#include "checksum_crc.h"
+#include "tier1/checksum_crc.h"
 #include "iservervehicle.h"
 #include "filters.h"
 #ifdef HL2_DLL
@@ -104,7 +104,7 @@ extern ConVar sk_healthkit;
 #include "ai_route.h"
 #include "ai_waypoint.h"
 
-#include "utlbuffer.h"
+#include "tier1/utlbuffer.h"
 #include "gamestats.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

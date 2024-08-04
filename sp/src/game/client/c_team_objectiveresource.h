@@ -10,7 +10,7 @@
 #pragma once
 #endif
 
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 #include "const.h"
 #include "c_baseentity.h"
 #include <igameresources.h>

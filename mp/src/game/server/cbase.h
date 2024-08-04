@@ -32,11 +32,11 @@
 // tier 0
 #include "tier0/dbg.h"
 #include "tier0/platform.h"
-#include "basetypes.h"
+#include "tier0/basetypes.h"
 
 // tier 1
 #include "tier1/strtools.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "mathlib/vmatrix.h"
 
 // tier 2
@@ -56,7 +56,7 @@
 #include "dt_send.h"
 
 // Shared header between the client DLL and the game DLLs
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 #include "ehandle.h"
 
 // app
@@ -71,7 +71,7 @@
 #include "predictableid.h"
 #include "variant_t.h"
 #include "takedamageinfo.h"
-#include "utllinkedlist.h"
+#include "tier1/utllinkedlist.h"
 #include "touchlink.h"
 #include "groundlink.h"
 #include "base_transmit_proxy.h"

@@ -28,7 +28,7 @@
 #include "predictableid.h"
 #endif
 #include "soundflags.h"
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 #include "networkvar.h"
 #include "interpolatedvar.h"
 #include "collisionproperty.h"

@@ -8,12 +8,12 @@
 
 #include "vbsp.h"
 #include "disp_vbsp.h"
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 #include "faces.h"
 #include "builddisp.h"
 #include "tier1/strtools.h"
 #include "utilmatlib.h"
-#include "utldict.h"
+#include "tier1/utldict.h"
 #include "map.h"
 
 int		c_nofaces;

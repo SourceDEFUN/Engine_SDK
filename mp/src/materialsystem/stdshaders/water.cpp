@@ -8,7 +8,7 @@
 #include "BaseVSShader.h"
 #include "mathlib/vmatrix.h"
 #include "common_hlsl_cpp_consts.h" // hack hack hack!
-#include "convar.h"
+#include "tier1/convar.h"
 
 #include "WaterCheap_vs20.inc"
 #include "WaterCheap_ps20.inc"

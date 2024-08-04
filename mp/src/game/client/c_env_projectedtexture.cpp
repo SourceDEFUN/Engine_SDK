@@ -5,7 +5,7 @@
 //=============================================================================
 
 #include "cbase.h"
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 #include "materialsystem/imesh.h"
 #include "materialsystem/imaterial.h"
 #include "view.h"

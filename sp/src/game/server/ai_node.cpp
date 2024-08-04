@@ -21,7 +21,7 @@
 #include "ai_basenpc.h"
 #include "ai_navigator.h"
 #include "ai_moveprobe.h"
-#include "fmtstr.h"
+#include "tier1/fmtstr.h"
 #include "game.h"			
 #include "ai_networkmanager.h"
 

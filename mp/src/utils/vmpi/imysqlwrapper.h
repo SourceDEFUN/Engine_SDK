@@ -12,8 +12,8 @@
 #endif
 
 
-#include "utlvector.h"
-#include "interface.h"
+#include "tier1/utlvector.h"
+#include "tier1/interface.h"
 
 
 class IMySQLRowSet;

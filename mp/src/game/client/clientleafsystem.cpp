@@ -10,7 +10,7 @@
 
 #include "cbase.h"
 #include "clientleafsystem.h"
-#include "utlbidirectionalset.h"
+#include "tier1/utlbidirectionalset.h"
 #include "model_types.h"
 #include "ivrenderview.h"
 #include "tier0/vprof.h"

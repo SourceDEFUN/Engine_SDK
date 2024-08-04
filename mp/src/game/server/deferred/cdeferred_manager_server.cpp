@@ -4,9 +4,9 @@
 #include "mapentities.h"
 #include "filesystem.h"
 #include "bspfile.h"
-#include "utlbuffer.h"
-#include "lzmaDecoder.h"
-#include "icommandline.h"
+#include "tier1/utlbuffer.h"
+#include "tier1/lzmaDecoder.h"
+#include "tier0/icommandline.h"
 
 #include "tier0/memdbgon.h"
 

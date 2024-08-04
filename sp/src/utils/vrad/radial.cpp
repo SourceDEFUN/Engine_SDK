@@ -10,7 +10,7 @@
 #include "lightmap.h"
 #include "radial.h"
 #include "mathlib/bumpvects.h"
-#include "utlrbtree.h"
+#include "tier1/utlrbtree.h"
 #include "mathlib/VMatrix.h"
 #include "macro_texture.h"
 

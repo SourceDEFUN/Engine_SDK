@@ -13,8 +13,8 @@
 #endif
 
 #include "igamesystem.h"
-#include "commonmacros.h"
-#include "utlvector.h"
+#include "tier0/commonmacros.h"
+#include "tier1/utlvector.h"
 #include "materialsystem/imaterialsystem.h"
 #include "materialsystem/imaterial.h"
 

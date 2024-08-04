@@ -7,7 +7,7 @@
 //=============================================================================//
 #include "cbase.h"
 #include "physics_impact_damage.h"
-#include "shareddefs.h"
+#include "shaderapi/shareddefs.h"
 #include "vphysics/friction.h"
 #include "vphysics/player_controller.h"
 #include "world.h"

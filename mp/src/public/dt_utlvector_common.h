@@ -11,7 +11,7 @@
 #endif
 
 
-#include "utlvector.h"
+#include "tier1/utlvector.h"
 
 
 typedef void (*EnsureCapacityFn)( void *pVoid, int offsetToUtlVector, int len );

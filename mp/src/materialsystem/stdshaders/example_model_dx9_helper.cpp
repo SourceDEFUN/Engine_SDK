@@ -7,7 +7,7 @@
 //===========================================================================//
 #include "BaseVSShader.h"
 #include "example_model_dx9_helper.h"
-#include "convar.h"
+#include "tier1/convar.h"
 #include "cpp_shader_constant_register_map.h"
 #include "example_model_vs20.inc"
 #include "example_model_ps20b.inc"

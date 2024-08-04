@@ -12,8 +12,8 @@
 #pragma once
 #endif
 
-#include "platform.h"
-#include "dbg.h"
+#include "tier0/platform.h"
+#include "tier0/dbg.h"
 
 //-----------------------------------------------------------------------------
 // Forward declarations

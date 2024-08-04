@@ -7,12 +7,12 @@
 
 #include "cbase.h"
 #include "filesystem.h"
-#include "utlbuffer.h"
+#include "tier1/utlbuffer.h"
 #include "igamesystem.h"
 #include "materialsystem_passthru.h"
 #include "materialsystem/imaterialvar.h"
 #include "materialsystem/itexture.h"
-#include "icommandline.h"
+#include "tier0/icommandline.h"
 
 #include "deferred/deferred_shared_common.h"
 

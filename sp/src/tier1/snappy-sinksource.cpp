@@ -28,7 +28,7 @@
 
 #include <string.h>
 
-#include "snappy-sinksource.h"
+#include "tier1/snappy-sinksource.h"
 
 namespace snappy {
 

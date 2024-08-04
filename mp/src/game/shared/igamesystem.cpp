@@ -9,8 +9,8 @@
 #include "cbase.h"
 #include "igamesystem.h"
 #include "datacache/imdlcache.h"
-#include "utlvector.h"
-#include "vprof.h"
+#include "tier1/utlvector.h"
+#include "tier0/vprof.h"
 #if defined( _X360 )
 #include "xbox/xbox_console.h"
 #endif

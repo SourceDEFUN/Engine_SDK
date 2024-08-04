@@ -7,7 +7,7 @@
 #include "cbase.h"
 #include "studio.h"
 #include "engine/ivmodelinfo.h"
-#include "utlsymbol.h"
+#include "tier1/utlsymbol.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

@@ -10,7 +10,7 @@
 
 //----------------------------------------------------------------------------------------
 
-#include "interface.h"
+#include "tier1/interface.h"
 #include "iqueryablereplayitem.h"
 #include "replay/replayhandle.h"
 #include "replay/replaytime.h"

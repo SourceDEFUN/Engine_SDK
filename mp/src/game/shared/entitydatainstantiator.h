@@ -10,7 +10,7 @@
 #pragma once
 #endif
 
-#include "utlhash.h"
+#include "tier1/utlhash.h"
 
 #include "tier0/memdbgon.h"
 
