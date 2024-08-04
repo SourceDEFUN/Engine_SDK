@@ -12,7 +12,7 @@
 #pragma once
 #endif
 
-#include "tier0/platform.h"
+#include "platform.h"
 
 // -------------------------------------------------------
 //
